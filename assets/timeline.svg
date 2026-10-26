@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="690" viewBox="0 0 1200 690">
 <rect width="1200" height="690" fill="#ffffff"/>
-<text x="70" y="62" font-family="Arial,'Noto Sans JP',sans-serif" font-size="17" fill="#8b3d5c" letter-spacing="2.5">CAREER JOURNEY</text>
-<text x="70" y="100" font-family="Arial,'Noto Sans JP',sans-serif" font-size="28" font-weight="700" fill="#242a33">営業職からITへ。PL・独立・会社経営を経て、クラウドインフラへ</text>
+<text x="70" y="62" font-family="Arial,'Noto Sans JP',sans-serif" font-size="17" fill="#8b3d5c" letter-spacing="2">キャリアの歩み</text>
+<text x="70" y="100" font-family="Arial,'Noto Sans JP',sans-serif" font-size="28" font-weight="700" fill="#242a33">営業からITへ転身し、PL・フリーランス・会社経営を経てクラウドインフラへ</text>
 
 <path d="M95 520 C190 520 230 460 305 460 S405 400 480 400 S585 340 655 340 S760 275 835 275 S945 210 1010 210 S1080 155 1110 140" fill="none" stroke="#eadbe1" stroke-width="12" stroke-linecap="round"/>
 <path d="M95 520 C190 520 230 460 305 460 S405 400 480 400 S585 340 655 340 S760 275 835 275 S945 210 1010 210 S1080 155 1110 140" fill="none" stroke="#8b3d5c" stroke-width="4" stroke-linecap="round"/>
@@ -19,41 +19,40 @@
 <text x="260" y="436" font-size="17" font-weight="700" fill="#303640">異業種からITへ転職</text>
 <rect x="238" y="490" width="142" height="34" rx="17" fill="#fff4f7" stroke="#eadbe1"/>
 <text x="309" y="512" text-anchor="middle" font-size="10" font-weight="700" fill="#8b3d5c">独学 + 社内研修</text>
-<text x="238" y="546" font-size="10" fill="#6b7280">PC / プリンタ / タブレット</text>
-<text x="238" y="562" font-size="10" fill="#6b7280">セットアップ・アプリ導入・稼働確認</text>
+<text x="238" y="546" font-size="10" fill="#6b7280">端末セットアップ・アプリ導入</text>
+<text x="238" y="562" font-size="10" fill="#6b7280">現地導入から稼働確認まで</text>
 
 <circle cx="480" cy="400" r="29" fill="#a95170"/>
 <circle cx="471" cy="394" r="5" fill="#fff"/><circle cx="489" cy="394" r="5" fill="#fff"/><path d="M464 413c5-10 27-10 32 0" fill="none" stroke="#fff" stroke-width="2.5"/>
 <text x="440" y="350" font-size="13" font-weight="700" fill="#8b3d5c">2017-2018</text>
-<text x="440" y="375" font-size="18" font-weight="700" fill="#303640">PL / PMOへ</text>
-<text x="428" y="451" font-size="10" fill="#6b7280">導入支援 → チーム推進・管理へ</text>
+<text x="440" y="375" font-size="18" font-weight="700" fill="#303640">PL / PMO</text>
+<text x="428" y="451" font-size="10" fill="#6b7280">案件推進・メンバー管理・調整</text>
 
 <circle cx="655" cy="340" r="31" fill="#8b3d5c"/>
 <path d="M640 341h30M645 331h20M645 351h20" stroke="#fff" stroke-width="3"/>
 <text x="615" y="290" font-size="13" font-weight="700" fill="#8b3d5c">2019.08</text>
-<text x="596" y="315" font-size="18" font-weight="700" fill="#303640">個人事業主</text>
+<text x="596" y="315" font-size="18" font-weight="700" fill="#303640">フリーランス</text>
 <text x="596" y="393" font-size="10" fill="#6b7280">AWS / Linux / Ansible</text>
 
 <circle cx="835" cy="275" r="37" fill="#8b3d5c"/>
 <path d="M818 287v-28h34v28M825 259v-12h20v12" fill="none" stroke="#fff" stroke-width="3"/>
 <text x="793" y="216" font-size="13" font-weight="700" fill="#8b3d5c">2020.11</text>
-<text x="790" y="243" font-size="18" font-weight="700" fill="#303640">Token株式会社 設立</text>
+<text x="790" y="243" font-size="18" font-weight="700" fill="#303640">会社設立</text>
 <rect x="758" y="330" width="160" height="47" rx="13" fill="#8b3d5c" opacity=".08"/>
-<text x="838" y="350" text-anchor="middle" font-size="11" font-weight="700" fill="#8b3d5c">会社経営・受託開発</text>
+<text x="838" y="350" text-anchor="middle" font-size="11" font-weight="700" fill="#8b3d5c">Token株式会社</text>
 <text x="838" y="367" text-anchor="middle" font-size="10" fill="#6b7280">2020.11 - 2024.10</text>
 
 <circle cx="1010" cy="210" r="31" fill="#b76e87"/>
 <path d="M997 212l9 9 18-22" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
-<text x="963" y="158" font-size="13" font-weight="700" fill="#8b3d5c">2024.11</text>
-<text x="950" y="184" font-size="17" font-weight="700" fill="#303640">PM / クラウド</text>
-<text x="946" y="260" font-size="10" fill="#6b7280">大規模案件・自動化・バックエンド</text>
+<text x="963" y="158" font-size="13" font-weight="700" fill="#8b3d5c">2024-2026</text>
+<text x="950" y="184" font-size="17" font-weight="700" fill="#303640">PM / クラウド案件</text>
+<text x="946" y="260" font-size="10" fill="#6b7280">プロジェクト推進・自動化・クラウド領域</text>
 
 <circle cx="1110" cy="140" r="40" fill="#8b3d5c"/>
 <circle cx="1110" cy="140" r="13" fill="#fff"/>
 <text x="1064" y="72" font-size="13" font-weight="700" fill="#8b3d5c">2026.07</text>
-<text x="1028" y="99" font-size="17" font-weight="700" fill="#303640">再び個人事業主</text>
-<text x="1012" y="199" font-size="11" fill="#6b7280">自社クラウドサービス</text>
-<text x="1012" y="216" font-size="11" fill="#6b7280">インフラ設計・構築・運用</text>
+<text x="1023" y="99" font-size="17" font-weight="700" fill="#303640">現在：クラウドインフラ</text>
+<text x="1012" y="199" font-size="11" fill="#6b7280">設計・構築・運用・改善</text>
 </g>
 
 <rect x="90" y="640" width="1020" height="4" rx="2" fill="#eadbe1"/>
