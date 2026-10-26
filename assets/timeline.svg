@@ -1,98 +1,94 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
-<rect width="1200" height="760" fill="#ffffff"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="780" viewBox="0 0 1200 780">
+  <rect width="1200" height="780" fill="#ffffff"/>
 
-<text x="70" y="58" font-family="Arial,'Noto Sans JP',sans-serif" font-size="17" fill="#8b3d5c" letter-spacing="2">キャリアの歩み</text>
-<text x="70" y="99" font-family="Arial,'Noto Sans JP',sans-serif" font-size="27" font-weight="700" fill="#242a33">営業職からITエンジニアへ</text>
-<text x="70" y="136" font-family="Arial,'Noto Sans JP',sans-serif" font-size="25" font-weight="700" fill="#242a33">PL・独立・会社経営を経て、クラウドインフラ領域へ</text>
-<line x1="70" y1="158" x2="1130" y2="158" stroke="#eadbe1" stroke-width="2"/>
+  <text x="70" y="62" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="17" fill="#8E5870" letter-spacing="2">キャリアの歩み</text>
+  <text x="70" y="104" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="27" font-weight="700" fill="#232A34">営業職からITへ転身</text>
+  <text x="70" y="142" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="25" font-weight="700" fill="#232A34">プロジェクトリーダー・フリーランス・会社経営を経て、クラウドインフラ領域へ</text>
+  <line x1="70" y1="166" x2="1130" y2="166" stroke="#E8DCE3" stroke-width="2"/>
 
-<!-- Career growth curve -->
-<path d="M105 580 C190 580 220 535 280 535 S380 485 445 485 S550 430 610 430 S715 370 775 370 S880 310 940 310 S1045 250 1090 250" fill="none" stroke="#eadbe1" stroke-width="13" stroke-linecap="round"/>
-<path d="M105 580 C190 580 220 535 280 535 S380 485 445 485 S550 430 610 430 S715 370 775 370 S880 310 940 310 S1045 250 1090 250" fill="none" stroke="#8b3d5c" stroke-width="4" stroke-linecap="round"/>
+  <path d="M110 575 C180 575 220 540 275 540 S370 492 435 492 S540 438 610 438 S720 378 790 378 S885 325 940 325 S1000 285 1035 270" fill="none" stroke="#E7DDE4" stroke-width="14" stroke-linecap="round"/>
+  <path d="M110 575 C180 575 220 540 275 540 S370 492 435 492 S540 438 610 438 S720 378 790 378 S885 325 940 325 S1000 285 1035 270" fill="none" stroke="#8E5870" stroke-width="4" stroke-linecap="round"/>
 
-<g font-family="Arial,'Noto Sans JP',sans-serif">
+  <g font-family="Arial, 'Noto Sans JP', sans-serif">
+    <circle cx="110" cy="575" r="25" fill="#C98FA8"/>
+    <rect x="98" y="564" width="24" height="17" rx="2" fill="none" stroke="#FFFFFF" stroke-width="2.5"/>
+    <path d="M103 564v-6h14v6M98 572h24" fill="none" stroke="#FFFFFF" stroke-width="2.5"/>
+    <line x1="110" y1="600" x2="110" y2="622" stroke="#C98FA8" stroke-width="2"/>
+    <rect x="48" y="622" width="155" height="90" rx="14" fill="#F8F1F4" stroke="#E6D9E0"/>
+    <text x="66" y="648" font-size="12" font-weight="700" fill="#8E5870">2013.04</text>
+    <text x="66" y="673" font-size="17" font-weight="700" fill="#303640">営業職</text>
+    <text x="66" y="695" font-size="11" fill="#6B7280">関西マツダ株式会社</text>
+  </g>
 
-<!-- 2013 Sales -->
-<circle cx="105" cy="580" r="25" fill="#cf9aad"/>
-<rect x="94" y="570" width="22" height="15" rx="2" fill="none" stroke="#fff" stroke-width="2.5"/>
-<path d="M99 570v-5h12v5M94 576h22" fill="none" stroke="#fff" stroke-width="2.5"/>
-<line x1="105" y1="605" x2="105" y2="623" stroke="#cf9aad" stroke-width="2"/>
-<rect x="55" y="623" width="150" height="82" rx="14" fill="#fbf5f7" stroke="#eadbe1"/>
-<text x="72" y="648" font-size="12" font-weight="700" fill="#8b3d5c">2013.04</text>
-<text x="72" y="672" font-size="17" font-weight="700" fill="#303640">営業職</text>
-<text x="72" y="693" font-size="11" fill="#6b7280">関西マツダ株式会社</text>
+  <g font-family="Arial, 'Noto Sans JP', sans-serif">
+    <circle cx="275" cy="540" r="28" fill="#B76788"/>
+    <rect x="260" y="526" width="30" height="19" rx="2" fill="none" stroke="#FFFFFF" stroke-width="2.5"/>
+    <path d="M255 550h40M271 545v5M279 545v5" fill="none" stroke="#FFFFFF" stroke-width="2.5"/>
+    <line x1="275" y1="512" x2="275" y2="484" stroke="#B76788" stroke-width="2"/>
+    <rect x="180" y="386" width="230" height="98" rx="14" fill="#F8F1F4" stroke="#E6D9E0"/>
+    <text x="198" y="412" font-size="12" font-weight="700" fill="#8E5870">2016.08</text>
+    <text x="198" y="438" font-size="17" font-weight="700" fill="#303640">異業種からITへ転職</text>
+    <rect x="198" y="448" width="118" height="26" rx="13" fill="#FFF6F9" stroke="#E6D9E0"/>
+    <text x="257" y="466" text-anchor="middle" font-size="10" font-weight="700" fill="#8E5870">独学 + 社内研修</text>
+    <text x="198" y="486" font-size="10" fill="#6B7280">端末セットアップ・アプリ導入・稼働確認</text>
+  </g>
 
-<!-- 2016 IT transition -->
-<circle cx="280" cy="535" r="28" fill="#b76e87"/>
-<rect x="266" y="522" width="28" height="19" rx="2" fill="none" stroke="#fff" stroke-width="2.5"/>
-<path d="M262 546h36M276 541v5M284 541v5" fill="none" stroke="#fff" stroke-width="2.5"/>
-<line x1="280" y1="507" x2="280" y2="484" stroke="#b76e87" stroke-width="2"/>
-<rect x="210" y="395" width="200" height="89" rx="14" fill="#fbf5f7" stroke="#eadbe1"/>
-<text x="228" y="420" font-size="12" font-weight="700" fill="#8b3d5c">2016.08</text>
-<text x="228" y="445" font-size="17" font-weight="700" fill="#303640">異業種からITへ転職</text>
-<text x="228" y="466" font-size="10" fill="#8b3d5c">独学 + 社内研修</text>
-<text x="228" y="479" font-size="9" fill="#6b7280">端末セットアップ・アプリ導入</text>
+  <g font-family="Arial, 'Noto Sans JP', sans-serif">
+    <circle cx="435" cy="492" r="29" fill="#A95B78"/>
+    <circle cx="435" cy="480" r="5" fill="#FFFFFF"/>
+    <circle cx="423" cy="498" r="5" fill="#FFFFFF"/>
+    <circle cx="447" cy="498" r="5" fill="#FFFFFF"/>
+    <path d="M435 485v8M423 493h24" fill="none" stroke="#FFFFFF" stroke-width="2.3"/>
+    <line x1="435" y1="521" x2="435" y2="546" stroke="#A95B78" stroke-width="2"/>
+    <rect x="350" y="546" width="195" height="84" rx="14" fill="#F6EEF2" stroke="#E3D4DC"/>
+    <text x="368" y="572" font-size="12" font-weight="700" fill="#8E5870">2017-2018</text>
+    <text x="368" y="597" font-size="17" font-weight="700" fill="#303640">プロジェクトリーダー</text>
+    <text x="368" y="618" font-size="10" fill="#6B7280">案件推進・メンバー管理・調整</text>
+  </g>
 
-<!-- 2017-2018 PL -->
-<circle cx="445" cy="485" r="29" fill="#a95170"/>
-<circle cx="445" cy="473" r="5" fill="#fff"/>
-<circle cx="433" cy="491" r="5" fill="#fff"/>
-<circle cx="457" cy="491" r="5" fill="#fff"/>
-<path d="M445 478v7M433 486h24M433 486v0M457 486v0" fill="none" stroke="#fff" stroke-width="2.3"/>
-<line x1="445" y1="514" x2="445" y2="536" stroke="#a95170" stroke-width="2"/>
-<rect x="380" y="536" width="165" height="86" rx="14" fill="#fbf5f7" stroke="#eadbe1"/>
-<text x="398" y="561" font-size="12" font-weight="700" fill="#8b3d5c">2017-2018</text>
-<text x="398" y="585" font-size="17" font-weight="700" fill="#303640">PL / PMO</text>
-<text x="398" y="606" font-size="10" fill="#6b7280">案件推進・管理・調整</text>
+  <g font-family="Arial, 'Noto Sans JP', sans-serif">
+    <circle cx="610" cy="438" r="31" fill="#7C3F5A"/>
+    <path d="M596 430l-8 8 8 8M624 430l8 8-8 8M617 422l-10 32" fill="none" stroke="#FFFFFF" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <line x1="610" y1="407" x2="610" y2="380" stroke="#7C3F5A" stroke-width="2"/>
+    <rect x="525" y="302" width="170" height="78" rx="14" fill="#F5EDF1" stroke="#E1D0D8"/>
+    <text x="543" y="328" font-size="12" font-weight="700" fill="#8E5870">2019.08</text>
+    <text x="543" y="353" font-size="17" font-weight="700" fill="#303640">フリーランス</text>
+    <text x="543" y="373" font-size="10" fill="#6B7280">AWS / Linux / Ansible</text>
+  </g>
 
-<!-- 2019 Freelance -->
-<circle cx="610" cy="430" r="31" fill="#8b3d5c"/>
-<path d="M596 422l-9 8 9 8M624 422l9 8-9 8M616 415l-12 30" fill="none" stroke="#fff" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
-<line x1="610" y1="399" x2="610" y2="377" stroke="#8b3d5c" stroke-width="2"/>
-<rect x="545" y="300" width="170" height="77" rx="14" fill="#fbf5f7" stroke="#eadbe1"/>
-<text x="563" y="325" font-size="12" font-weight="700" fill="#8b3d5c">2019.08</text>
-<text x="563" y="349" font-size="17" font-weight="700" fill="#303640">フリーランス</text>
-<text x="563" y="368" font-size="10" fill="#6b7280">AWS / Linux / Ansible</text>
+  <g font-family="Arial, 'Noto Sans JP', sans-serif">
+    <circle cx="790" cy="378" r="37" fill="#7C3F5A"/>
+    <rect x="773" y="362" width="34" height="33" fill="none" stroke="#FFFFFF" stroke-width="2.6"/>
+    <path d="M780 362v-10h20v10M780 373h5M794 373h5M780 382h5M794 382h5" fill="none" stroke="#FFFFFF" stroke-width="2.6"/>
+    <line x1="790" y1="415" x2="790" y2="442" stroke="#7C3F5A" stroke-width="2"/>
+    <rect x="700" y="442" width="205" height="90" rx="14" fill="#F1E1E8" stroke="#D7BCC8"/>
+    <text x="718" y="468" font-size="12" font-weight="700" fill="#8E5870">2020.11</text>
+    <text x="718" y="494" font-size="17" font-weight="700" fill="#303640">会社設立</text>
+    <text x="718" y="516" font-size="11" fill="#7C3F5A">Token株式会社</text>
+    <text x="718" y="531" font-size="9" fill="#6B7280">会社経営・受託開発</text>
+  </g>
 
-<!-- 2020 Company -->
-<circle cx="775" cy="370" r="35" fill="#8b3d5c"/>
-<rect x="759" y="355" width="32" height="31" fill="none" stroke="#fff" stroke-width="2.5"/>
-<path d="M766 355v-10h18v10M766 365h5M779 365h5M766 374h5M779 374h5" fill="none" stroke="#fff" stroke-width="2.5"/>
-<line x1="775" y1="405" x2="775" y2="427" stroke="#8b3d5c" stroke-width="2"/>
-<rect x="705" y="427" width="195" height="88" rx="14" fill="#fbf5f7" stroke="#eadbe1"/>
-<text x="723" y="452" font-size="12" font-weight="700" fill="#8b3d5c">2020.11</text>
-<text x="723" y="476" font-size="17" font-weight="700" fill="#303640">会社設立</text>
-<text x="723" y="496" font-size="11" fill="#8b3d5c">Token株式会社</text>
-<text x="723" y="510" font-size="9" fill="#6b7280">会社経営・受託開発</text>
+  <g font-family="Arial, 'Noto Sans JP', sans-serif">
+    <circle cx="940" cy="325" r="28" fill="#A96A86"/>
+    <path d="M924 331h32c7 0 11-4 11-10s-4-10-11-10c-2-8-8-13-16-13-7 0-13 4-16 11-6 0-10 5-10 11s4 11 10 11z" fill="none" stroke="#FFFFFF" stroke-width="2.5" stroke-linejoin="round"/>
+    <line x1="940" y1="353" x2="940" y2="376" stroke="#A96A86" stroke-width="2"/>
+    <rect x="850" y="376" width="200" height="88" rx="14" fill="#F8F4F6" stroke="#E4D9DF"/>
+    <text x="868" y="402" font-size="12" font-weight="700" fill="#8E5870">2026.07-</text>
+    <text x="868" y="427" font-size="16" font-weight="700" fill="#303640">クラウドインフラ領域</text>
+    <text x="868" y="448" font-size="10" fill="#6B7280">設計・構築・運用・改善</text>
+  </g>
 
-<!-- 2024 PM / Cloud -->
-<circle cx="940" cy="310" r="31" fill="#b76e87"/>
-<rect x="927" y="295" width="26" height="30" rx="3" fill="none" stroke="#fff" stroke-width="2.5"/>
-<path d="M933 303h14M933 311h14M933 319h9M925 300h3M925 308h3M925 316h3" fill="none" stroke="#fff" stroke-width="2.2" stroke-linecap="round"/>
-<line x1="940" y1="279" x2="940" y2="257" stroke="#b76e87" stroke-width="2"/>
-<rect x="850" y="181" width="205" height="76" rx="14" fill="#fbf5f7" stroke="#eadbe1"/>
-<text x="868" y="206" font-size="12" font-weight="700" fill="#8b3d5c">2024-2026</text>
-<text x="868" y="230" font-size="17" font-weight="700" fill="#303640">PM / クラウド案件</text>
-<text x="868" y="249" font-size="10" fill="#6b7280">プロジェクト推進・自動化</text>
+  <g>
+    <circle cx="1035" cy="270" r="22" fill="#D9B4C4"/>
+    <path d="M1023 274h24c5 0 8-3 8-7s-3-7-8-7c-1-5-5-9-11-9-5 0-9 3-11 8-4 0-7 3-7 8 0 4 3 7 7 7z" fill="none" stroke="#FFFFFF" stroke-width="2.2"/>
+  </g>
 
-<!-- 2026 Current cloud infrastructure -->
-<circle cx="1090" cy="250" r="36" fill="#8b3d5c"/>
-<path d="M1072 257h36c8 0 12-5 12-11s-5-11-12-11c-2-9-9-14-18-14-8 0-15 5-18 12-7 0-12 5-12 12 0 7 5 12 12 12z" fill="none" stroke="#fff" stroke-width="2.7" stroke-linejoin="round"/>
-<line x1="1090" y1="286" x2="1090" y2="309" stroke="#8b3d5c" stroke-width="2"/>
-<rect x="982" y="309" width="150" height="93" rx="14" fill="#fbf5f7" stroke="#eadbe1"/>
-<text x="998" y="334" font-size="12" font-weight="700" fill="#8b3d5c">2026.07-</text>
-<text x="998" y="357" font-size="16" font-weight="700" fill="#303640">現在</text>
-<text x="998" y="379" font-size="13" font-weight="700" fill="#8b3d5c">クラウドインフラ</text>
-<text x="998" y="395" font-size="9" fill="#6b7280">設計・構築・運用・改善</text>
-
-</g>
-
-<rect x="70" y="728" width="1060" height="4" rx="2" fill="#eadbe1"/>
-<circle cx="105" cy="730" r="6" fill="#cf9aad"/>
-<circle cx="280" cy="730" r="6" fill="#b76e87"/>
-<circle cx="445" cy="730" r="6" fill="#a95170"/>
-<circle cx="610" cy="730" r="6" fill="#8b3d5c"/>
-<circle cx="775" cy="730" r="6" fill="#8b3d5c"/>
-<circle cx="940" cy="730" r="6" fill="#b76e87"/>
-<circle cx="1090" cy="730" r="6" fill="#8b3d5c"/>
+  <rect x="70" y="742" width="1060" height="4" rx="2" fill="#E7DDE4"/>
+  <circle cx="110" cy="744" r="6" fill="#C98FA8"/>
+  <circle cx="275" cy="744" r="6" fill="#B76788"/>
+  <circle cx="435" cy="744" r="6" fill="#A95B78"/>
+  <circle cx="610" cy="744" r="6" fill="#7C3F5A"/>
+  <circle cx="790" cy="744" r="6" fill="#7C3F5A"/>
+  <circle cx="940" cy="744" r="6" fill="#A96A86"/>
+  <circle cx="1035" cy="744" r="6" fill="#D9B4C4"/>
 </svg>
