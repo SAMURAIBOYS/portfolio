@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430">
+  <rect width="1200" height="430" fill="#ffffff"/>
+  <rect width="1200" height="8" fill="#7C3F5A"/>
+
+  <text x="70" y="82" font-family="Arial,'Noto Sans JP',sans-serif" font-size="17" fill="#A45F7A" letter-spacing="3">ENGINEERING PORTFOLIO</text>
+  <text x="70" y="148" font-family="Arial,'Noto Sans JP',sans-serif" font-size="46" font-weight="700" fill="#232A34">サービス基盤をつくり、改善し、支える</text>
+  <text x="72" y="194" font-family="Arial,'Noto Sans JP',sans-serif" font-size="22" font-weight="600" fill="#7C3F5A">クラウド × 自動化 × プロジェクトリード</text>
+  <text x="72" y="228" font-family="Arial,'Noto Sans JP',sans-serif" font-size="16" fill="#6B7280">設計・構築から運用改善、障害調査、チーム推進まで</text>
+
+  <g>
+    <rect x="70" y="280" width="245" height="110" rx="18" fill="#FBF5F7" stroke="#E7D7DE"/>
+    <text x="94" y="326" font-family="Arial,sans-serif" font-size="38" font-weight="700" fill="#7C3F5A">10+</text>
+    <text x="94" y="358" font-family="Arial,'Noto Sans JP',sans-serif" font-size="14" font-weight="700" fill="#4F5661">エンジニア経験</text>
+
+    <rect x="330" y="280" width="245" height="110" rx="18" fill="#F8EDF2" stroke="#E4CED8"/>
+    <text x="354" y="326" font-family="Arial,sans-serif" font-size="38" font-weight="700" fill="#94516E">5+</text>
+    <text x="354" y="358" font-family="Arial,'Noto Sans JP',sans-serif" font-size="14" font-weight="700" fill="#4F5661">インフラ経験</text>
+
+    <rect x="590" y="280" width="245" height="110" rx="18" fill="#F4E4EB" stroke="#DDBFCC"/>
+    <text x="614" y="326" font-family="Arial,sans-serif" font-size="38" font-weight="700" fill="#A95B78">4+</text>
+    <text x="614" y="358" font-family="Arial,'Noto Sans JP',sans-serif" font-size="14" font-weight="700" fill="#4F5661">会社経営</text>
+
+    <rect x="850" y="280" width="280" height="110" rx="18" fill="#EFD7E2" stroke="#D5AFC0"/>
+    <text x="874" y="317" font-family="Arial,sans-serif" font-size="27" font-weight="700" fill="#7C3F5A">PL 6+</text>
+    <text x="985" y="317" font-family="Arial,sans-serif" font-size="22" font-weight="700" fill="#B76788">Freelance 1+</text>
+    <text x="874" y="350" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" font-weight="700" fill="#4F5661">プロジェクトリーダー</text>
+    <text x="985" y="350" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" font-weight="700" fill="#4F5661">フリーランス</text>
+  </g>
+</svg>
