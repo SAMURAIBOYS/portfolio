@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/skills-20261026-v5.svg" width="100%" alt="Technology Map"/>
+  <img src="./assets/skills-20261026-v6.svg" width="100%" alt="Technology Map"/>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 <p align="center">
   <img height="28" src="https://img.shields.io/badge/Linux-FBF5F7?style=flat-square&amp;logo=linux&amp;logoColor=FCC624&amp;logoWidth=20" alt="Linux"/>
   <img height="28" src="./assets/badge-windows.svg" alt="Windows"/>
-  <img height="28" src="./assets/badge-aws.svg" alt="AWS"/>
+  <img height="28" src="./assets/badge-aws-v2.svg" alt="AWS"/>
   <img height="28" src="https://img.shields.io/badge/VMware-F2DFE7?style=flat-square&amp;logo=vmware&amp;logoColor=607078&amp;logoWidth=20" alt="VMware"/>
   <img height="28" src="https://img.shields.io/badge/Hyper--V-F0DCE5?style=flat-square&amp;logo=windows11&amp;logoColor=0078D4&amp;logoWidth=20" alt="Hyper-V"/>
   <img height="28" src="https://img.shields.io/badge/Citrix-FBF5F7?style=flat-square&amp;logo=citrix&amp;logoColor=452170&amp;logoWidth=20" alt="Citrix"/>
@@ -63,5 +63,5 @@
 </p>
 
 <p align="center">
-  <img src="./assets/career-document-20261026.svg" width="100%" alt="職務経歴書（PDF）を確認する"/>
+  <img src="./assets/career-document-20261026-v2.svg" width="100%" alt="職務経歴書（PDF）をご確認ください"/>
 </p>
