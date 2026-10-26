@@ -59,7 +59,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/timeline-20261026-v5.svg" width="100%" alt="Career Timeline"/>
+  <img src="./assets/timeline-20261026-v6.svg" width="100%" alt="Career Timeline"/>
 </p>
 
 <p align="center">
