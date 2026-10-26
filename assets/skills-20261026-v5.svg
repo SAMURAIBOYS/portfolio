@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="740" viewBox="0 0 1200 740">
+<rect width="1200" height="740" fill="#ffffff"/>
+<text x="70" y="62" font-family="Arial,'Noto Sans JP',sans-serif" font-size="17" fill="#A45F7A" letter-spacing="2">テクノロジーマップ</text>
+<text x="70" y="100" font-family="Arial,'Noto Sans JP',sans-serif" font-size="28" font-weight="700" fill="#232A34">技術スタック・実務領域</text>
+<line x1="70" y1="120" x2="1130" y2="120" stroke="#E8DCE3" stroke-width="2"/>
+
+<rect x="70" y="150" width="330" height="270" rx="22" fill="#FBF5F7" stroke="#E7D7DE"/>
+<text x="96" y="186" font-family="Arial,'Noto Sans JP',sans-serif" font-size="15" font-weight="700" fill="#7C3F5A">インフラ / クラウド / OS</text>
+<g font-family="Arial,sans-serif" font-size="13" fill="#303640">
+<text x="96" y="225">Linux</text><rect x="190" y="213" width="165" height="14" rx="7" fill="#EEDDE5"/><rect x="190" y="213" width="158" height="14" rx="7" fill="#7C3F5A"/>
+<text x="96" y="258">Windows</text><rect x="190" y="246" width="165" height="14" rx="7" fill="#EEDDE5"/><rect x="190" y="246" width="135" height="14" rx="7" fill="#94516E"/>
+<text x="96" y="291">AWS</text><rect x="190" y="279" width="165" height="14" rx="7" fill="#EEDDE5"/><rect x="190" y="279" width="148" height="14" rx="7" fill="#A95B78"/>
+<text x="96" y="324">Hyper-V</text><rect x="190" y="312" width="165" height="14" rx="7" fill="#EEDDE5"/><rect x="190" y="312" width="145" height="14" rx="7" fill="#B76788"/>
+<text x="96" y="357">VMware</text><rect x="190" y="345" width="165" height="14" rx="7" fill="#EEDDE5"/><rect x="190" y="345" width="125" height="14" rx="7" fill="#C1849E"/>
+<text x="96" y="390">Citrix</text><rect x="190" y="378" width="165" height="14" rx="7" fill="#EEDDE5"/><rect x="190" y="378" width="122" height="14" rx="7" fill="#D1A3B6"/>
+</g>
+
+<rect x="435" y="150" width="330" height="270" rx="22" fill="#F8EDF2" stroke="#E4CED8"/>
+<text x="461" y="186" font-family="Arial,'Noto Sans JP',sans-serif" font-size="15" font-weight="700" fill="#94516E">自動化 / IaC / セキュリティ</text>
+<g font-family="Arial,sans-serif" font-size="13" fill="#303640">
+<text x="461" y="225">Ansible</text><rect x="580" y="213" width="145" height="14" rx="7" fill="#E9D5DE"/><rect x="580" y="213" width="140" height="14" rx="7" fill="#7C3F5A"/>
+<text x="461" y="265">CloudFormation</text><rect x="580" y="253" width="145" height="14" rx="7" fill="#E9D5DE"/><rect x="580" y="253" width="120" height="14" rx="7" fill="#A95B78"/>
+<text x="461" y="305">GitLab CI/CD</text><rect x="580" y="293" width="145" height="14" rx="7" fill="#E9D5DE"/><rect x="580" y="293" width="108" height="14" rx="7" fill="#C1849E"/>
+<text x="461" y="345">Terraform</text><rect x="580" y="333" width="145" height="14" rx="7" fill="#E9D5DE"/><rect x="580" y="333" width="72" height="14" rx="7" fill="#D7B3C3"/>
+<text x="461" y="385">CrowdStrike</text><rect x="580" y="373" width="145" height="14" rx="7" fill="#E9D5DE"/><rect x="580" y="373" width="88" height="14" rx="7" fill="#D8B7C5"/>
+</g>
+
+<rect x="800" y="150" width="330" height="270" rx="22" fill="#F4E4EB" stroke="#DDBFCC"/>
+<text x="826" y="186" font-family="Arial,'Noto Sans JP',sans-serif" font-size="15" font-weight="700" fill="#A95B78">運用 / 障害対応</text>
+<g font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#303640">
+<text x="826" y="225">障害切り分け</text><text x="1018" y="225" fill="#7C3F5A">●●●●●</text>
+<text x="826" y="265">運用改善・標準化</text><text x="1018" y="265" fill="#94516E">●●●●●</text>
+<text x="826" y="305">監視 / ログ確認</text><text x="1018" y="305" fill="#B76788">●●●●○</text>
+<text x="826" y="345">ドキュメント整備</text><text x="1018" y="345" fill="#C98FA8">●●●●○</text>
+</g>
+
+<rect x="70" y="455" width="330" height="220" rx="22" fill="#F4E4EB" stroke="#DDBFCC"/>
+<text x="96" y="491" font-family="Arial,'Noto Sans JP',sans-serif" font-size="15" font-weight="700" fill="#94516E">ミドルウェア / 監視</text>
+<text x="96" y="533" font-family="Arial,sans-serif" font-size="13" fill="#303640">Apache · Nginx · Tomcat</text>
+<text x="96" y="567" font-family="Arial,sans-serif" font-size="13" fill="#303640">Zabbix · Prometheus</text>
+<text x="96" y="601" font-family="Arial,sans-serif" font-size="13" fill="#303640">PostgreSQL · MySQL · Oracle</text>
+
+<rect x="435" y="455" width="330" height="220" rx="22" fill="#EFD7E2" stroke="#D5AFC0"/>
+<text x="461" y="491" font-family="Arial,'Noto Sans JP',sans-serif" font-size="15" font-weight="700" fill="#7C3F5A">プロジェクト推進</text>
+<text x="461" y="533" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#303640">プロジェクトリーダー</text>
+<text x="461" y="567" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#303640">顧客調整 / 進捗・課題管理</text>
+<text x="461" y="601" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#303640">コスト管理 / オフショア管理</text>
+
+<rect x="800" y="455" width="330" height="220" rx="22" fill="#F8EDF2" stroke="#E4CED8"/>
+<text x="826" y="491" font-family="Arial,'Noto Sans JP',sans-serif" font-size="15" font-weight="700" fill="#7C3F5A">ツール / コラボレーション</text>
+<g font-family="Arial,'Noto Sans JP',sans-serif" font-size="12" fill="#303640">
+<rect x="826" y="516" width="84" height="30" rx="15" fill="#fff" stroke="#E4CED8"/><text x="868" y="536" text-anchor="middle">Backlog</text>
+<rect x="920" y="516" width="72" height="30" rx="15" fill="#fff" stroke="#E4CED8"/><text x="956" y="536" text-anchor="middle">Slack</text>
+<rect x="1002" y="516" width="96" height="30" rx="15" fill="#fff" stroke="#E4CED8"/><text x="1050" y="536" text-anchor="middle">Chatwork</text>
+
+<rect x="826" y="558" width="82" height="30" rx="15" fill="#fff" stroke="#E4CED8"/><text x="867" y="578" text-anchor="middle">Redmine</text>
+<rect x="918" y="558" width="68" height="30" rx="15" fill="#fff" stroke="#E4CED8"/><text x="952" y="578" text-anchor="middle">Jira</text>
+<rect x="996" y="558" width="102" height="30" rx="15" fill="#fff" stroke="#E4CED8"/><text x="1047" y="578" text-anchor="middle">Confluence</text>
+
+<rect x="826" y="600" width="82" height="30" rx="15" fill="#fff" stroke="#E4CED8"/><text x="867" y="620" text-anchor="middle">GitHub</text>
+<rect x="918" y="600" width="82" height="30" rx="15" fill="#fff" stroke="#E4CED8"/><text x="959" y="620" text-anchor="middle">GitLab</text>
+</g>
+</svg>
