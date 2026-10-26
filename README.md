@@ -20,7 +20,7 @@
   <img height="26" src="./assets/badge-windows-v2.svg" alt="Windows"/>
   <img height="26" src="./assets/badge-aws-v3.svg" alt="AWS"/>
   <img height="26" src="https://img.shields.io/badge/VMware-F2DFE7?style=flat-square&amp;logo=vmware&amp;logoColor=607078" alt="VMware"/>
-  <img height="26" src="https://img.shields.io/badge/Hyper--V-F0DCE5?style=flat-square&amp;logo=windows11&amp;logoColor=0078D4" alt="Hyper-V"/>
+  <img height="26" src="./assets/badge-hyperv-v2.svg" alt="Hyper-V"/>
   <img height="26" src="https://img.shields.io/badge/Citrix-FBF5F7?style=flat-square&amp;logo=citrix&amp;logoColor=452170" alt="Citrix"/>
 </p>
 
