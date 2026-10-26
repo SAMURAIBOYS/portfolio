@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="820" viewBox="0 0 1200 820">
 <rect width="1200" height="820" fill="#ffffff"/>
-<text x="70" y="62" font-family="Arial,'Noto Sans JP',sans-serif" font-size="17" fill="#8b3d5c" letter-spacing="2.5">TECHNOLOGY MAP</text>
-<text x="70" y="98" font-family="Arial,'Noto Sans JP',sans-serif" font-size="28" font-weight="700" fill="#242a33">技術領域</text>
+<text x="70" y="62" font-family="Arial,'Noto Sans JP',sans-serif" font-size="17" fill="#8b3d5c" letter-spacing="2.5">テクノロジーマップ</text>
+<text x="70" y="98" font-family="Arial,'Noto Sans JP',sans-serif" font-size="28" font-weight="700" fill="#242a33">技術スタック・実務領域</text>
 <line x1="70" y1="118" x2="1130" y2="118" stroke="#eadbe1" stroke-width="2"/>
 
 <rect x="70" y="145" width="330" height="205" rx="22" fill="#fbf5f7"/>
