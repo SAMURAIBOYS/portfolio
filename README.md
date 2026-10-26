@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/hero-20261026-v9.svg" width="100%" alt="Engineering Portfolio"/>
+  <img src="./assets/hero-20261026-v10.svg" width="100%" alt="Engineering Portfolio"/>
 </p>
 
 <p align="center">
-  <img src="./assets/impact-20261026-v5.svg" width="100%" alt="Selected Impact"/>
+  <img src="./assets/impact-20261026-v6.svg" width="100%" alt="Selected Impact"/>
 </p>
 
 <p align="center">
