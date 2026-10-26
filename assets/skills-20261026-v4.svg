@@ -41,16 +41,18 @@
 <rect x="70" y="455" width="330" height="220" rx="22" fill="#F8EDF2" stroke="#E4CED8"/>
 <text x="96" y="491" font-family="Arial,'Noto Sans JP',sans-serif" font-size="15" font-weight="700" fill="#7C3F5A">実装 / スクリプト</text>
 <circle cx="165" cy="570" r="54" fill="#7C3F5A"/>
-<text x="165" y="565" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#fff">Shell</text>
-<text x="165" y="585" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#fff">Script</text>
+<text x="165" y="558" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#fff">Shell</text>
+<text x="165" y="578" text-anchor="middle" font-family="Arial,sans-serif" font-size="15" font-weight="700" fill="#fff">Script</text>
+<text x="165" y="598" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="#F9EAF0">B</text>
 
-<circle cx="268" cy="537" r="34" fill="#A95B78"/><text x="268" y="542" text-anchor="middle" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#fff">Python</text>
+<circle cx="268" cy="537" r="31" fill="#A95B78"/><text x="268" y="535" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="#fff">Python</text><text x="268" y="550" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="700" fill="#F9EAF0">B</text>
 
-<circle cx="266" cy="606" r="23" fill="#C1849E"/><text x="266" y="610" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#fff">JS</text>
-<circle cx="316" cy="567" r="21" fill="#D1A3B6"/><text x="316" y="571" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#6B3E52">PHP</text>
-<circle cx="344" cy="611" r="20" fill="#D9B3C3"/><text x="344" y="615" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#6B3E52">C#</text>
+<circle cx="266" cy="606" r="23" fill="#C1849E"/><text x="266" y="604" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#fff">JS</text><text x="266" y="617" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#fff">B</text>
+<circle cx="316" cy="567" r="21" fill="#D1A3B6"/><text x="316" y="565" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#6B3E52">PHP</text><text x="316" y="577" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#6B3E52">C</text>
+<circle cx="344" cy="611" r="24" fill="#D9B3C3"/><text x="344" y="609" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" font-weight="700" fill="#6B3E52">C#</text><text x="344" y="623" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#6B3E52">C</text>
 
-<text x="96" y="650" font-family="Arial,'Noto Sans JP',sans-serif" font-size="10" fill="#77616B">C / Java / HTML・CSS / Delphi / Laravel / CakePHP</text>
+<text x="96" y="646" font-family="Arial,'Noto Sans JP',sans-serif" font-size="10" fill="#77616B">C [C]   Java [C]   HTML・CSS [B]</text>
+<text x="96" y="663" font-family="Arial,'Noto Sans JP',sans-serif" font-size="10" fill="#9A7C89">Delphi [D]   Laravel [D]   CakePHP [D]</text>
 
 <!-- middleware -->
 <rect x="435" y="455" width="330" height="220" rx="22" fill="#F4E4EB" stroke="#DDBFCC"/>
