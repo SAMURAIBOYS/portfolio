@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero-20261026-v8.svg" width="100%" alt="Engineering Portfolio"/>
+  <img src="./assets/hero-20261026-v9.svg" width="100%" alt="Engineering Portfolio"/>
 </p>
 
 <p align="center">
