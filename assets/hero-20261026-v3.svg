@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440">
+<rect width="1200" height="440" fill="#fff"/>
+<rect width="1200" height="8" fill="#7C3F5A"/>
+<text x="70" y="76" font-family="Arial,'Noto Sans JP',sans-serif" font-size="16" fill="#A45F7A" letter-spacing="3">ENGINEERING PORTFOLIO</text>
+<text x="70" y="137" font-family="Arial,'Noto Sans JP',sans-serif" font-size="40" font-weight="700" fill="#232A34">クラウド基盤を、設計から改善まで。</text>
+<text x="70" y="180" font-family="Arial,'Noto Sans JP',sans-serif" font-size="20" font-weight="600" fill="#7C3F5A">自動化・運用改善・プロジェクトリード</text>
+<text x="70" y="214" font-family="Arial,'Noto Sans JP',sans-serif" font-size="15" fill="#6B7280">設計 / 構築 / 障害調査 / 運用改善 / チーム推進</text>
+<rect x="70" y="270" width="250" height="120" rx="18" fill="#FBF5F7" stroke="#E7D7DE"/>
+<text x="94" y="319" font-family="Arial,sans-serif" font-size="38" font-weight="700" fill="#7C3F5A">10+</text>
+<text x="94" y="353" font-family="Arial,'Noto Sans JP',sans-serif" font-size="14" font-weight="700" fill="#4F5661">エンジニア経験</text>
+<rect x="340" y="270" width="250" height="120" rx="18" fill="#F9EEF3" stroke="#E4CED8"/>
+<text x="364" y="319" font-family="Arial,sans-serif" font-size="38" font-weight="700" fill="#94516E">5+</text>
+<text x="364" y="353" font-family="Arial,'Noto Sans JP',sans-serif" font-size="14" font-weight="700" fill="#4F5661">インフラ経験</text>
+<rect x="610" y="270" width="250" height="120" rx="18" fill="#F5E5EC" stroke="#DDBFCC"/>
+<text x="634" y="319" font-family="Arial,sans-serif" font-size="38" font-weight="700" fill="#A95B78">4+</text>
+<text x="634" y="353" font-family="Arial,'Noto Sans JP',sans-serif" font-size="14" font-weight="700" fill="#4F5661">会社経営</text>
+<rect x="880" y="270" width="250" height="120" rx="18" fill="#F0DCE5" stroke="#D5AFC0"/>
+<text x="904" y="311" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#7C3F5A">6+</text>
+<text x="964" y="311" font-family="Arial,'Noto Sans JP',sans-serif" font-size="12" font-weight="700" fill="#4F5661">PL経験</text>
+<line x1="904" y1="326" x2="1106" y2="326" stroke="#DDBFCC"/>
+<text x="904" y="360" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#B76788">1+</text>
+<text x="956" y="360" font-family="Arial,'Noto Sans JP',sans-serif" font-size="12" font-weight="700" fill="#4F5661">フリーランス経験</text>
+</svg>
