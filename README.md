@@ -63,5 +63,5 @@
 </p>
 
 <p align="center">
-  <img src="./assets/career-document-20261026.svg" width="100%" alt="職務経歴書で詳細を見る"/>
+  <img src="./assets/career-document-20261026.svg" width="100%" alt="職務経歴書（PDF）を確認する"/>
 </p>
