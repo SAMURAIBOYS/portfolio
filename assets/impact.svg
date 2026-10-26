@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" fill="#ffffff"/>
+<text x="70" y="70" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#8b3d5c" letter-spacing="2">SELECTED IMPACT</text>
+<text x="70" y="110" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700" fill="#242a33">What I improved</text>
+
+<g font-family="Arial,Helvetica,sans-serif">
+<rect x="70" y="150" width="250" height="280" rx="20" fill="#8b3d5c"/>
+<circle cx="115" cy="202" r="25" fill="#ffffff" opacity=".16"/>
+<path d="M103 202h24M115 190v24" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+<text x="95" y="258" font-size="17" font-weight="700" fill="#fff">AUTOMATION</text>
+<text x="95" y="310" font-size="38" font-weight="700" fill="#fff">-1 month</text>
+<text x="95" y="342" font-size="14" fill="#f4e8ed">delivery lead time</text>
+<text x="95" y="385" font-size="14" fill="#f4e8ed">Ansible / Linux / IaC</text>
+
+<rect x="340" y="150" width="250" height="280" rx="20" fill="#fbf5f7" stroke="#eadbe1"/>
+<circle cx="385" cy="202" r="25" fill="#eadbe1"/>
+<rect x="373" y="192" width="24" height="20" rx="3" fill="#8b3d5c"/><path d="M379 188v-7M391 188v-7" stroke="#8b3d5c" stroke-width="3"/>
+<text x="365" y="258" font-size="17" font-weight="700" fill="#8b3d5c">CLOUD OPS</text>
+<text x="365" y="310" font-size="38" font-weight="700" fill="#8b3d5c">52</text>
+<text x="365" y="342" font-size="14" fill="#6b7280">AWS accounts</text>
+<text x="365" y="385" font-size="14" fill="#6b7280">monitor / change / improve</text>
+
+<rect x="610" y="150" width="250" height="280" rx="20" fill="#fbf5f7" stroke="#eadbe1"/>
+<circle cx="655" cy="202" r="25" fill="#eadbe1"/>
+<path d="M643 192l-8 10 8 10M667 192l8 10-8 10M660 187l-10 30" fill="none" stroke="#8b3d5c" stroke-width="3"/>
+<text x="635" y="258" font-size="17" font-weight="700" fill="#8b3d5c">BACKEND</text>
+<text x="635" y="310" font-size="26" font-weight="700" fill="#8b3d5c">Python · PHP</text>
+<text x="635" y="342" font-size="18" fill="#8b3d5c">JS · Java · C# · C</text>
+<text x="635" y="385" font-size="14" fill="#6b7280">design / develop / debug</text>
+
+<rect x="880" y="150" width="250" height="280" rx="20" fill="#fbf5f7" stroke="#eadbe1"/>
+<circle cx="925" cy="202" r="25" fill="#eadbe1"/>
+<circle cx="917" cy="198" r="6" fill="#8b3d5c"/><circle cx="933" cy="198" r="6" fill="#8b3d5c"/><path d="M908 216c4-10 28-10 34 0" fill="none" stroke="#8b3d5c" stroke-width="3"/>
+<text x="905" y="258" font-size="17" font-weight="700" fill="#8b3d5c">LEADERSHIP</text>
+<text x="905" y="310" font-size="38" font-weight="700" fill="#8b3d5c">50</text>
+<text x="905" y="342" font-size="14" fill="#6b7280">max team size</text>
+<text x="905" y="382" font-size="30" font-weight="700" fill="#b76e87">3</text>
+<text x="940" y="382" font-size="14" fill="#6b7280">parallel projects</text>
+</g>
+</svg>
