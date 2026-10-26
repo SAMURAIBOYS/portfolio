@@ -1,44 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="555" viewBox="0 0 1200 555">
-<rect width="1200" height="555" fill="#ffffff"/>
-<text x="70" y="64" font-family="Arial,'Noto Sans JP',sans-serif" font-size="17" fill="#8b3d5c" letter-spacing="2.5">SELECTED IMPACT</text>
-<text x="70" y="101" font-family="Arial,'Noto Sans JP',sans-serif" font-size="29" font-weight="700" fill="#242a33">主な実績</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="690" viewBox="0 0 1200 690">
+<rect width="1200" height="690" fill="#ffffff"/>
+<text x="70" y="62" font-family="Arial,'Noto Sans JP',sans-serif" font-size="17" fill="#8b3d5c" letter-spacing="2">主な実績</text>
+<text x="70" y="101" font-family="Arial,'Noto Sans JP',sans-serif" font-size="28" font-weight="700" fill="#242a33">実務で強くアピールしたいポイント</text>
 <line x1="70" y1="120" x2="1130" y2="120" stroke="#eadbe1" stroke-width="2"/>
 
-<rect x="70" y="150" width="485" height="330" rx="24" fill="#8b3d5c"/>
-<circle cx="128" cy="207" r="31" fill="#ffffff" opacity=".15"/>
-<path d="M111 220v-28h34v28M118 192v-14h20v14M105 228h46" fill="none" stroke="#fff" stroke-width="3" stroke-linejoin="round"/>
-<text x="174" y="194" font-family="Arial,'Noto Sans JP',sans-serif" font-size="14" fill="#f3dde6" letter-spacing="1.5">CLOUD SERVICE</text>
-<text x="174" y="231" font-family="Arial,'Noto Sans JP',sans-serif" font-size="30" font-weight="700" fill="#fff">十万規模の顧客基盤</text>
-<text x="100" y="286" font-family="Arial,'Noto Sans JP',sans-serif" font-size="18" font-weight="700" fill="#fff">自社クラウドサービス</text>
-<rect x="100" y="314" width="195" height="65" rx="14" fill="#ffffff" opacity=".10"/>
-<text x="120" y="341" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#fff">設計 · 構築 · 運用</text>
-<text x="120" y="363" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#f5eaf0">障害調査 · 運用改善</text>
-<rect x="315" y="314" width="210" height="65" rx="14" fill="#ffffff" opacity=".10"/>
-<text x="335" y="341" font-family="Arial,sans-serif" font-size="13" fill="#fff">Linux / AWS</text>
-<text x="335" y="363" font-family="Arial,sans-serif" font-size="13" fill="#f5eaf0">CloudFormation</text>
-<path d="M105 425h410" stroke="#b76e87" stroke-width="2"/>
-<text x="105" y="452" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#f5eaf0">大規模な顧客基盤を支えるサービスインフラを経験</text>
+<!-- 1. Large-scale cloud service -->
+<rect x="70" y="150" width="1060" height="225" rx="24" fill="#8b3d5c"/>
+<circle cx="130" cy="209" r="32" fill="#ffffff" opacity=".15"/>
+<path d="M112 222v-30h36v30M119 192v-15h22v15M105 231h50" fill="none" stroke="#fff" stroke-width="3" stroke-linejoin="round"/>
+<text x="180" y="195" font-family="Arial,'Noto Sans JP',sans-serif" font-size="14" fill="#f3dde6" letter-spacing="1.4">大規模クラウドサービス</text>
+<text x="180" y="240" font-family="Arial,'Noto Sans JP',sans-serif" font-size="38" font-weight="700" fill="#ffffff">十万規模の顧客基盤</text>
+<text x="180" y="276" font-family="Arial,'Noto Sans JP',sans-serif" font-size="18" fill="#ffffff">自社クラウドサービスのインフラ設計・構築・運用</text>
 
-<rect x="580" y="150" width="260" height="330" rx="24" fill="#fbf5f7" stroke="#eadbe1"/>
-<circle cx="630" cy="203" r="27" fill="#eadbe1"/>
-<path d="M616 203h28M630 189v28" stroke="#8b3d5c" stroke-width="3" stroke-linecap="round"/>
-<text x="674" y="199" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#8b3d5c" letter-spacing="1.2">LEADERSHIP</text>
-<text x="608" y="257" font-family="Arial,'Noto Sans JP',sans-serif" font-size="24" font-weight="700" fill="#303640">PL / PM / PMO</text>
-<text x="608" y="301" font-family="Arial,'Noto Sans JP',sans-serif" font-size="14" fill="#6b7280">進捗 · 課題 · コスト管理</text>
-<text x="608" y="330" font-family="Arial,'Noto Sans JP',sans-serif" font-size="14" fill="#6b7280">顧客 / 開発 / 運用の調整</text>
-<rect x="608" y="365" width="204" height="76" rx="14" fill="#fff" stroke="#eadbe1"/>
-<text x="628" y="397" font-family="Arial,sans-serif" font-size="26" font-weight="700" fill="#b76e87">3</text>
-<text x="654" y="397" font-family="Arial,'Noto Sans JP',sans-serif" font-size="12" fill="#6b7280">案件並行経験</text>
-<text x="628" y="424" font-family="Arial,'Noto Sans JP',sans-serif" font-size="11" fill="#8b8f97">最大50名規模は補足実績</text>
+<rect x="180" y="305" width="245" height="44" rx="12" fill="#ffffff" opacity=".11"/>
+<text x="302" y="333" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" fill="#ffffff">Linux / AWS / CloudFormation</text>
+<rect x="445" y="305" width="250" height="44" rx="12" fill="#ffffff" opacity=".11"/>
+<text x="570" y="333" text-anchor="middle" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#ffffff">障害調査 / 運用改善</text>
+<rect x="715" y="305" width="250" height="44" rx="12" fill="#ffffff" opacity=".11"/>
+<text x="840" y="333" text-anchor="middle" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#ffffff">設計 / 構築 / 運用</text>
 
-<rect x="865" y="150" width="265" height="330" rx="24" fill="#fbf5f7" stroke="#eadbe1"/>
-<circle cx="915" cy="203" r="27" fill="#eadbe1"/>
-<path d="M901 216v-25h28v25M907 191v-11h16v11" fill="none" stroke="#8b3d5c" stroke-width="3"/>
-<text x="958" y="199" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#8b3d5c" letter-spacing="1.2">FOUNDER</text>
-<text x="893" y="257" font-family="Arial,'Noto Sans JP',sans-serif" font-size="25" font-weight="700" fill="#303640">会社経営</text>
-<text x="893" y="300" font-family="Arial,sans-serif" font-size="34" font-weight="700" fill="#8b3d5c">4 yrs</text>
-<text x="893" y="328" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#6b7280">法人設立・運営</text>
-<text x="893" y="365" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#6b7280">複数案件の受託・納品</text>
-<text x="893" y="393" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#6b7280">コスト改善 / 業務改善</text>
-<text x="893" y="430" font-family="Arial,'Noto Sans JP',sans-serif" font-size="12" fill="#8b8f97">技術 + 経営の両面を経験</text>
+<!-- 2. Leadership -->
+<rect x="70" y="405" width="330" height="220" rx="22" fill="#fbf5f7" stroke="#eadbe1"/>
+<circle cx="120" cy="455" r="27" fill="#eadbe1"/>
+<circle cx="111" cy="450" r="6" fill="#8b3d5c"/><circle cx="129" cy="450" r="6" fill="#8b3d5c"/><path d="M103 469c5-11 29-11 34 0" fill="none" stroke="#8b3d5c" stroke-width="3"/>
+<text x="162" y="450" font-family="Arial,'Noto Sans JP',sans-serif" font-size="14" font-weight="700" fill="#8b3d5c">2. リーダーシップ</text>
+<text x="98" y="505" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#303640">PL / PM / PMO</text>
+<text x="98" y="542" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#6b7280">複数案件推進</text>
+<text x="98" y="568" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#6b7280">顧客・開発・運用の調整</text>
+<text x="98" y="598" font-family="Arial,'Noto Sans JP',sans-serif" font-size="10" fill="#9aa0a8">最大50名規模の案件経験</text>
+
+<!-- 3. Founder -->
+<rect x="435" y="405" width="330" height="220" rx="22" fill="#fbf5f7" stroke="#eadbe1"/>
+<circle cx="485" cy="455" r="27" fill="#eadbe1"/>
+<path d="M471 468v-25h28v25M477 443v-11h16v11" fill="none" stroke="#8b3d5c" stroke-width="3"/>
+<text x="527" y="450" font-family="Arial,'Noto Sans JP',sans-serif" font-size="14" font-weight="700" fill="#8b3d5c">3. 会社経営</text>
+<text x="463" y="505" font-family="Arial,sans-serif" font-size="32" font-weight="700" fill="#8b3d5c">4 yrs</text>
+<text x="463" y="536" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#6b7280">法人設立・運営</text>
+<text x="463" y="562" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#6b7280">複数案件の受託・納品</text>
+<text x="463" y="588" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#6b7280">コスト改善 / 目標短期達成</text>
+
+<!-- 4. Automation / coding -->
+<rect x="800" y="405" width="330" height="220" rx="22" fill="#fbf5f7" stroke="#eadbe1"/>
+<text x="828" y="450" font-family="Arial,'Noto Sans JP',sans-serif" font-size="14" font-weight="700" fill="#8b3d5c">4. 自動化・実装</text>
+<circle cx="895" cy="535" r="58" fill="#8b3d5c"/>
+<text x="895" y="529" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#fff">Shell</text>
+<text x="895" y="550" text-anchor="middle" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#fff">Script</text>
+<circle cx="995" cy="500" r="39" fill="#b76e87"/>
+<text x="995" y="505" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#fff">Python</text>
+<circle cx="1054" cy="550" r="23" fill="#cf9aad"/><text x="1054" y="554" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#fff">JS</text>
+<circle cx="1094" cy="510" r="19" fill="#ddb9c6"/><text x="1094" y="514" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#8b3d5c">PHP</text>
+<circle cx="1095" cy="570" r="16" fill="#e7d0d9"/><text x="1095" y="574" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#8b3d5c">Java</text>
 </svg>
