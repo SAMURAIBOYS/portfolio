@@ -1,22 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470">
-<rect width="1200" height="470" fill="#ffffff"/>
-<text x="70" y="70" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#8b3d5c" letter-spacing="2">CAREER TIMELINE</text>
-<text x="70" y="110" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700" fill="#242a33">2016 → 2026</text>
-<line x1="105" y1="250" x2="1095" y2="250" stroke="#eadbe1" stroke-width="8" stroke-linecap="round"/>
-<g font-family="Arial,Helvetica,sans-serif">
-<g><circle cx="120" cy="250" r="15" fill="#cf9aad"/><text x="90" y="220" font-size="14" font-weight="700" fill="#8b3d5c">2016</text><text x="72" y="286" font-size="12" fill="#5f6671">START</text></g>
-<g><circle cx="270" cy="250" r="15" fill="#cf9aad"/><text x="240" y="220" font-size="14" font-weight="700" fill="#8b3d5c">2018</text><text x="205" y="286" font-size="12" fill="#5f6671">OPS / DC</text></g>
-<g><circle cx="420" cy="250" r="15" fill="#b76e87"/><text x="390" y="220" font-size="14" font-weight="700" fill="#8b3d5c">2019</text><text x="352" y="286" font-size="12" fill="#5f6671">AWS / ANSIBLE</text></g>
-<g><circle cx="585" cy="250" r="18" fill="#8b3d5c"/><text x="555" y="220" font-size="14" font-weight="700" fill="#8b3d5c">2020</text><text x="520" y="286" font-size="12" fill="#5f6671">COMPANY / DEV</text></g>
-<g><circle cx="760" cy="250" r="18" fill="#8b3d5c"/><text x="730" y="220" font-size="14" font-weight="700" fill="#8b3d5c">2024</text><text x="700" y="286" font-size="12" fill="#5f6671">PM / CLOUD</text></g>
-<g><circle cx="910" cy="250" r="18" fill="#8b3d5c"/><text x="880" y="220" font-size="14" font-weight="700" fill="#8b3d5c">2025</text><text x="830" y="286" font-size="12" fill="#5f6671">BACKEND / AUTO</text></g>
-<g><circle cx="1080" cy="250" r="22" fill="#8b3d5c"/><circle cx="1080" cy="250" r="8" fill="#fff"/><text x="1048" y="210" font-size="16" font-weight="700" fill="#8b3d5c">2026</text><text x="1020" y="292" font-size="12" fill="#5f6671">CLOUD INFRA</text></g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<rect width="1200" height="620" fill="#ffffff"/>
+<text x="70" y="66" font-family="Arial,sans-serif" font-size="17" fill="#8b3d5c" letter-spacing="2.5">CAREER JOURNEY</text>
+<text x="70" y="105" font-family="Arial,sans-serif" font-size="28" font-weight="700" fill="#242a33">SALES → ENGINEER → LEADER → FREELANCE → FOUNDER</text>
+<path d="M95 470 C210 470 245 410 320 410 S430 350 500 350 S610 295 680 295 S785 230 855 230 S980 165 1095 135" fill="none" stroke="#eadbe1" stroke-width="12" stroke-linecap="round"/>
+<path d="M95 470 C210 470 245 410 320 410 S430 350 500 350 S610 295 680 295 S785 230 855 230 S980 165 1095 135" fill="none" stroke="#8b3d5c" stroke-width="4" stroke-linecap="round"/>
+<g font-family="Arial,sans-serif">
+<circle cx="115" cy="466" r="23" fill="#cf9aad"/>
+<path d="M105 462h20M108 455h14M108 469h14" stroke="#ffffff" stroke-width="2.5"/>
+<text x="78" y="520" font-size="14" font-weight="700" fill="#8b3d5c">2013</text>
+<text x="78" y="544" font-size="16" font-weight="700" fill="#303640">営業</text>
+<text x="78" y="564" font-size="11" fill="#6b7280">関西マツダ</text>
 
-<rect x="150" y="340" width="900" height="70" rx="14" fill="#fbf5f7"/>
-<text x="180" y="382" font-size="16" fill="#303640">Infrastructure</text><text x="340" y="382" font-size="16" fill="#b76e87">→</text>
-<text x="380" y="382" font-size="16" fill="#303640">Automation</text><text x="510" y="382" font-size="16" fill="#b76e87">→</text>
-<text x="550" y="382" font-size="16" fill="#303640">Backend</text><text x="655" y="382" font-size="16" fill="#b76e87">→</text>
-<text x="695" y="382" font-size="16" fill="#303640">Leadership</text><text x="815" y="382" font-size="16" fill="#b76e87">→</text>
-<text x="855" y="382" font-size="16" font-weight="700" fill="#8b3d5c">Service Reliability</text>
+<circle cx="320" cy="410" r="27" fill="#b76e87"/>
+<path d="M309 410h22M320 399v22" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+<text x="282" y="370" font-size="14" font-weight="700" fill="#8b3d5c">2016</text>
+<text x="282" y="390" font-size="16" font-weight="700" fill="#303640">IT転職</text>
+<rect x="246" y="438" width="150" height="44" rx="12" fill="#fbf5f7" stroke="#eadbe1"/>
+<text x="321" y="457" text-anchor="middle" font-size="10" fill="#8b3d5c">PC / Printer / Tablet</text>
+<text x="321" y="473" text-anchor="middle" font-size="10" fill="#6b7280">Setup · App Deploy</text>
+
+<circle cx="500" cy="350" r="29" fill="#a95170"/>
+<circle cx="491" cy="344" r="5" fill="#fff"/><circle cx="509" cy="344" r="5" fill="#fff"/><path d="M484 363c5-10 27-10 32 0" fill="none" stroke="#fff" stroke-width="2.5"/>
+<text x="460" y="305" font-size="14" font-weight="700" fill="#8b3d5c">2017-18</text>
+<text x="460" y="327" font-size="17" font-weight="700" fill="#303640">PL / PMO</text>
+
+<circle cx="680" cy="295" r="31" fill="#8b3d5c"/>
+<path d="M665 296h30M670 286h20M670 306h20" stroke="#fff" stroke-width="3"/>
+<text x="642" y="248" font-size="14" font-weight="700" fill="#8b3d5c">2019</text>
+<text x="620" y="270" font-size="17" font-weight="700" fill="#303640">FREELANCE</text>
+<text x="622" y="343" font-size="11" fill="#6b7280">AWS / Linux / Ansible</text>
+
+<circle cx="855" cy="230" r="37" fill="#8b3d5c"/>
+<path d="M838 242v-28h34v28M845 214v-12h20v12" fill="none" stroke="#fff" stroke-width="3"/>
+<text x="817" y="175" font-size="14" font-weight="700" fill="#8b3d5c">2020</text>
+<text x="792" y="198" font-size="18" font-weight="700" fill="#303640">FOUNDER</text>
+<rect x="778" y="280" width="158" height="46" rx="13" fill="#8b3d5c" opacity="0.08"/>
+<text x="857" y="300" text-anchor="middle" font-size="11" font-weight="700" fill="#8b3d5c">Token株式会社</text>
+<text x="857" y="317" text-anchor="middle" font-size="10" fill="#6b7280">2020.11 - 2024.10</text>
+
+<circle cx="995" cy="171" r="31" fill="#b76e87"/>
+<path d="M982 173l9 9 18-22" fill="none" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+<text x="952" y="118" font-size="14" font-weight="700" fill="#8b3d5c">2024-26</text>
+<text x="940" y="142" font-size="16" font-weight="700" fill="#303640">PM / CLOUD</text>
+
+<circle cx="1095" cy="135" r="40" fill="#8b3d5c"/>
+<circle cx="1095" cy="135" r="13" fill="#ffffff"/>
+<text x="1048" y="72" font-size="14" font-weight="700" fill="#8b3d5c">2026</text>
+<text x="1018" y="96" font-size="17" font-weight="700" fill="#303640">FREELANCE</text>
+<text x="1018" y="206" font-size="11" fill="#6b7280">Cloud Infrastructure</text>
 </g>
+<rect x="70" y="575" width="1060" height="4" rx="2" fill="#eadbe1"/>
+<circle cx="115" cy="577" r="7" fill="#cf9aad"/><circle cx="320" cy="577" r="7" fill="#b76e87"/><circle cx="500" cy="577" r="7" fill="#a95170"/><circle cx="680" cy="577" r="7" fill="#8b3d5c"/><circle cx="855" cy="577" r="7" fill="#8b3d5c"/><circle cx="1095" cy="577" r="7" fill="#8b3d5c"/>
 </svg>
