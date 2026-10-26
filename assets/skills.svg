@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="620" viewBox="0 0 1200 620">
+<rect width="1200" height="620" fill="#ffffff"/>
+<text x="70" y="70" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#8b3d5c" letter-spacing="2">TECHNICAL MAP</text>
+<text x="70" y="112" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700" fill="#242a33">Strengths & Experience</text>
+
+<g font-family="Arial,Helvetica,sans-serif">
+<rect x="70" y="150" width="510" height="180" rx="18" fill="#fbf5f7"/>
+<text x="95" y="185" font-size="18" font-weight="700" fill="#8b3d5c">INFRASTRUCTURE / CLOUD</text>
+<text x="95" y="224" font-size="16" fill="#303640">Linux</text><rect x="230" y="210" width="310" height="16" rx="8" fill="#eadbe1"/><rect x="230" y="210" width="294" height="16" rx="8" fill="#8b3d5c"/>
+<text x="95" y="263" font-size="16" fill="#303640">AWS</text><rect x="230" y="249" width="310" height="16" rx="8" fill="#eadbe1"/><rect x="230" y="249" width="265" height="16" rx="8" fill="#b76e87"/>
+<text x="95" y="302" font-size="16" fill="#303640">VM / On-prem</text><rect x="230" y="288" width="310" height="16" rx="8" fill="#eadbe1"/><rect x="230" y="288" width="230" height="16" rx="8" fill="#cf9aad"/>
+
+<rect x="620" y="150" width="510" height="180" rx="18" fill="#fbf5f7"/>
+<text x="645" y="185" font-size="18" font-weight="700" fill="#8b3d5c">AUTOMATION / IaC</text>
+<text x="645" y="224" font-size="16" fill="#303640">Ansible</text><rect x="780" y="210" width="310" height="16" rx="8" fill="#eadbe1"/><rect x="780" y="210" width="300" height="16" rx="8" fill="#8b3d5c"/>
+<text x="645" y="263" font-size="16" fill="#303640">CloudFormation</text><rect x="780" y="249" width="310" height="16" rx="8" fill="#eadbe1"/><rect x="780" y="249" width="245" height="16" rx="8" fill="#b76e87"/>
+<text x="645" y="302" font-size="16" fill="#303640">Terraform</text><rect x="780" y="288" width="310" height="16" rx="8" fill="#eadbe1"/><rect x="780" y="288" width="185" height="16" rx="8" fill="#cf9aad"/>
+
+<rect x="70" y="360" width="510" height="180" rx="18" fill="#fbf5f7"/>
+<text x="95" y="395" font-size="18" font-weight="700" fill="#8b3d5c">BACKEND / DATABASE</text>
+<text x="95" y="438" font-size="15" fill="#303640">Python</text><text x="190" y="438" font-size="15" fill="#303640">PHP</text><text x="255" y="438" font-size="15" fill="#303640">JavaScript</text><text x="370" y="438" font-size="15" fill="#303640">Java</text>
+<text x="95" y="480" font-size="15" fill="#303640">PostgreSQL</text><text x="210" y="480" font-size="15" fill="#303640">MySQL</text><text x="290" y="480" font-size="15" fill="#303640">Oracle</text><text x="360" y="480" font-size="15" fill="#303640">SQL Server</text>
+<circle cx="105" cy="510" r="7" fill="#8b3d5c"/><circle cx="130" cy="510" r="7" fill="#b76e87"/><circle cx="155" cy="510" r="7" fill="#cf9aad"/><circle cx="180" cy="510" r="7" fill="#e6ccd6"/>
+
+<rect x="620" y="360" width="510" height="180" rx="18" fill="#fbf5f7"/>
+<text x="645" y="395" font-size="18" font-weight="700" fill="#8b3d5c">OPERATIONS / LEADERSHIP</text>
+<text x="645" y="438" font-size="15" fill="#303640">Troubleshooting</text><rect x="810" y="424" width="280" height="14" rx="7" fill="#eadbe1"/><rect x="810" y="424" width="250" height="14" rx="7" fill="#8b3d5c"/>
+<text x="645" y="478" font-size="15" fill="#303640">PM / PL / PMO</text><rect x="810" y="464" width="280" height="14" rx="7" fill="#eadbe1"/><rect x="810" y="464" width="230" height="14" rx="7" fill="#b76e87"/>
+<text x="645" y="518" font-size="15" fill="#303640">Ops Improvement</text><rect x="810" y="504" width="280" height="14" rx="7" fill="#eadbe1"/><rect x="810" y="504" width="255" height="14" rx="7" fill="#cf9aad"/>
+</g>
+
+<text x="70" y="586" font-family="Arial,Helvetica,sans-serif" font-size="13" fill="#8b8f97">A / B / C level details are documented in the submitted career history.</text>
+</svg>
