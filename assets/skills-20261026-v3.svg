@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700">
+<rect width="1200" height="700" fill="#ffffff"/>
+<text x="70" y="62" font-family="Arial,'Noto Sans JP',sans-serif" font-size="17" fill="#A45F7A" letter-spacing="2">テクノロジーマップ</text>
+<text x="70" y="100" font-family="Arial,'Noto Sans JP',sans-serif" font-size="28" font-weight="700" fill="#232A34">技術スタック・実務領域</text>
+<line x1="70" y1="120" x2="1130" y2="120" stroke="#E8DCE3" stroke-width="2"/>
+
+<!-- infrastructure -->
+<rect x="70" y="150" width="330" height="245" rx="22" fill="#FBF5F7" stroke="#E7D7DE"/>
+<text x="96" y="186" font-family="Arial,'Noto Sans JP',sans-serif" font-size="15" font-weight="700" fill="#7C3F5A">インフラ / クラウド</text>
+<g font-family="Arial,sans-serif" font-size="13" fill="#303640">
+<text x="96" y="225">Linux</text><rect x="190" y="213" width="165" height="14" rx="7" fill="#EEDDE5"/><rect x="190" y="213" width="158" height="14" rx="7" fill="#7C3F5A"/>
+<text x="96" y="260">AWS</text><rect x="190" y="248" width="165" height="14" rx="7" fill="#EEDDE5"/><rect x="190" y="248" width="148" height="14" rx="7" fill="#94516E"/>
+<text x="96" y="295">Hyper-V</text><rect x="190" y="283" width="165" height="14" rx="7" fill="#EEDDE5"/><rect x="190" y="283" width="145" height="14" rx="7" fill="#A95B78"/>
+<text x="96" y="330">VMware</text><rect x="190" y="318" width="165" height="14" rx="7" fill="#EEDDE5"/><rect x="190" y="318" width="125" height="14" rx="7" fill="#B76788"/>
+<text x="96" y="365">Citrix</text><rect x="190" y="353" width="165" height="14" rx="7" fill="#EEDDE5"/><rect x="190" y="353" width="122" height="14" rx="7" fill="#C98FA8"/>
+</g>
+
+<!-- automation -->
+<rect x="435" y="150" width="330" height="245" rx="22" fill="#F8EDF2" stroke="#E4CED8"/>
+<text x="461" y="186" font-family="Arial,'Noto Sans JP',sans-serif" font-size="15" font-weight="700" fill="#94516E">自動化 / IaC</text>
+<g font-family="Arial,sans-serif" font-size="13" fill="#303640">
+<text x="461" y="225">Ansible</text><rect x="580" y="213" width="145" height="14" rx="7" fill="#E9D5DE"/><rect x="580" y="213" width="140" height="14" rx="7" fill="#7C3F5A"/>
+<text x="461" y="265">CloudFormation</text><rect x="580" y="253" width="145" height="14" rx="7" fill="#E9D5DE"/><rect x="580" y="253" width="120" height="14" rx="7" fill="#A95B78"/>
+<text x="461" y="305">GitLab CI/CD</text><rect x="580" y="293" width="145" height="14" rx="7" fill="#E9D5DE"/><rect x="580" y="293" width="108" height="14" rx="7" fill="#C1849E"/>
+<text x="461" y="345">Terraform</text><rect x="580" y="333" width="145" height="14" rx="7" fill="#E9D5DE"/><rect x="580" y="333" width="72" height="14" rx="7" fill="#D7B3C3"/>
+</g>
+
+<!-- operations -->
+<rect x="800" y="150" width="330" height="245" rx="22" fill="#F4E4EB" stroke="#DDBFCC"/>
+<text x="826" y="186" font-family="Arial,'Noto Sans JP',sans-serif" font-size="15" font-weight="700" fill="#A95B78">運用 / 障害対応</text>
+<g font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#303640">
+<text x="826" y="225">障害切り分け</text><text x="1018" y="225" fill="#7C3F5A">●●●●●</text>
+<text x="826" y="265">運用改善・標準化</text><text x="1018" y="265" fill="#94516E">●●●●●</text>
+<text x="826" y="305">監視 / ログ確認</text><text x="1018" y="305" fill="#B76788">●●●●○</text>
+<text x="826" y="345">ドキュメント整備</text><text x="1018" y="345" fill="#C98FA8">●●●●○</text>
+</g>
+
+<!-- code -->
+<rect x="70" y="430" width="330" height="205" rx="22" fill="#F8EDF2" stroke="#E4CED8"/>
+<text x="96" y="466" font-family="Arial,'Noto Sans JP',sans-serif" font-size="15" font-weight="700" fill="#7C3F5A">実装 / スクリプト</text>
+<circle cx="180" cy="545" r="58" fill="#7C3F5A"/>
+<text x="180" y="540" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#fff">Shell</text>
+<text x="180" y="561" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#fff">Script</text>
+<circle cx="292" cy="512" r="40" fill="#A95B78"/><text x="292" y="517" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#fff">Python</text>
+<circle cx="292" cy="588" r="24" fill="#C1849E"/><text x="292" y="592" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#fff">JS</text>
+<circle cx="342" cy="552" r="20" fill="#D1A3B6"/><text x="342" y="556" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#6B3E52">PHP</text>
+<circle cx="342" cy="603" r="16" fill="#E5C9D5"/><text x="342" y="607" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#6B3E52">Java</text>
+
+<!-- middleware -->
+<rect x="435" y="430" width="330" height="205" rx="22" fill="#F4E4EB" stroke="#DDBFCC"/>
+<text x="461" y="466" font-family="Arial,'Noto Sans JP',sans-serif" font-size="15" font-weight="700" fill="#94516E">ミドルウェア / 監視</text>
+<text x="461" y="508" font-family="Arial,sans-serif" font-size="13" fill="#303640">Apache · Nginx · Tomcat</text>
+<text x="461" y="542" font-family="Arial,sans-serif" font-size="13" fill="#303640">Zabbix · Prometheus</text>
+<text x="461" y="576" font-family="Arial,sans-serif" font-size="13" fill="#303640">PostgreSQL · MySQL · Oracle</text>
+
+<!-- leadership -->
+<rect x="800" y="430" width="330" height="205" rx="22" fill="#EFD7E2" stroke="#D5AFC0"/>
+<text x="826" y="466" font-family="Arial,'Noto Sans JP',sans-serif" font-size="15" font-weight="700" fill="#7C3F5A">プロジェクト推進</text>
+<text x="826" y="508" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#303640">プロジェクトリーダー</text>
+<text x="826" y="542" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#303640">顧客調整 / 進捗・課題管理</text>
+<text x="826" y="576" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#303640">コスト管理 / オフショア管理</text>
+
+<text x="70" y="672" font-family="Arial,'Noto Sans JP',sans-serif" font-size="11" fill="#8B919A">各技術のロゴはREADME下部に表示</text>
+</svg>
