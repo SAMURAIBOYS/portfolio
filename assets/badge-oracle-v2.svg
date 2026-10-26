@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="26" viewBox="0 0 96 26">
+<rect width="96" height="26" rx="4" fill="#F5E5EC"/>
+<ellipse cx="14" cy="13" rx="8" ry="5" fill="none" stroke="#F80000" stroke-width="1.8"/>
+<text x="28" y="18" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#F80000">ORACLE</text>
+</svg>
