@@ -11,49 +11,51 @@
 </p>
 
 <p align="center">
-  <img height="26" src="https://img.shields.io/badge/Linux-FBF5F7?style=flat&amp;logo=linux&amp;logoColor=FCC624"/>
-  <img height="26" src="https://img.shields.io/badge/Windows-F9EEF3?style=flat&amp;logo=windows11&amp;logoColor=0078D4"/>
-  <img height="26" src="https://img.shields.io/badge/AWS-F5E5EC?style=flat&amp;logo=amazonwebservices&amp;logoColor=FF9900"/>
-  <img height="26" src="https://img.shields.io/badge/VMware-F2DFE7?style=flat&amp;logo=vmware&amp;logoColor=607078"/>
-  <img height="26" src="https://img.shields.io/badge/Hyper--V-F0DCE5?style=flat&amp;logo=windows11&amp;logoColor=0078D4"/>
-  <img height="26" src="https://img.shields.io/badge/Citrix-FBF5F7?style=flat&amp;logo=citrix&amp;logoColor=452170"/>
+  <strong>代表的な技術・ツール</strong><br/>
+  <sub>実務経験のある技術スタックから主要なものを抜粋</sub>
 </p>
 
 <p align="center">
-  <img height="26" src="https://img.shields.io/badge/Ansible-FBF5F7?style=flat&amp;logo=ansible&amp;logoColor=EE0000"/>
-  <img height="26" src="https://img.shields.io/badge/CloudFormation-F9EEF3?style=flat&amp;logo=amazonwebservices&amp;logoColor=FF9900"/>
-  <img height="26" src="https://img.shields.io/badge/Terraform-F5E5EC?style=flat&amp;logo=terraform&amp;logoColor=844FBA"/>
-  <img height="26" src="https://img.shields.io/badge/GitLab_CI%2FCD-F2DFE7?style=flat&amp;logo=gitlab&amp;logoColor=FC6D26"/>
-  <img height="26" src="https://img.shields.io/badge/Shell_Script-F0DCE5?style=flat&amp;logo=gnubash&amp;logoColor=4EAA25"/>
-  <img height="26" src="https://img.shields.io/badge/CrowdStrike-FBF5F7?style=flat&amp;logo=crowdstrike&amp;logoColor=FC0000"/>
+  <img height="28" src="https://img.shields.io/badge/Linux-FBF5F7?style=flat-square&amp;logo=linux&amp;logoColor=FCC624&amp;logoWidth=20" alt="Linux"/>
+  <img height="28" src="https://img.shields.io/badge/Windows-F9EEF3?style=flat-square&amp;logo=windows11&amp;logoColor=0078D4&amp;logoWidth=20" alt="Windows"/>
+  <img height="28" src="https://img.shields.io/badge/AWS-F5E5EC?style=flat-square&amp;logo=amazonwebservices&amp;logoColor=FF9900&amp;logoWidth=20" alt="AWS"/>
+  <img height="28" src="https://img.shields.io/badge/VMware-F2DFE7?style=flat-square&amp;logo=vmware&amp;logoColor=607078&amp;logoWidth=20" alt="VMware"/>
+  <img height="28" src="https://img.shields.io/badge/Hyper--V-F0DCE5?style=flat-square&amp;logo=windows11&amp;logoColor=0078D4&amp;logoWidth=20" alt="Hyper-V"/>
+  <img height="28" src="https://img.shields.io/badge/Citrix-FBF5F7?style=flat-square&amp;logo=citrix&amp;logoColor=452170&amp;logoWidth=20" alt="Citrix"/>
 </p>
 
 <p align="center">
-  <img height="26" src="https://img.shields.io/badge/Python-FBF5F7?style=flat&amp;logo=python&amp;logoColor=3776AB"/>
-  <img height="26" src="https://img.shields.io/badge/JavaScript-F9EEF3?style=flat&amp;logo=javascript&amp;logoColor=F7DF1E"/>
-  <img height="26" src="https://img.shields.io/badge/PHP-F5E5EC?style=flat&amp;logo=php&amp;logoColor=777BB4"/>
-  <img height="26" src="https://img.shields.io/badge/Java-F2DFE7?style=flat&amp;logo=openjdk&amp;logoColor=ED8B00"/>
-  <img height="26" src="https://img.shields.io/badge/C%23-F0DCE5?style=flat&amp;logo=dotnet&amp;logoColor=512BD4"/>
-  <img height="24" src="https://img.shields.io/badge/C-FBF5F7?style=flat&amp;logo=c&amp;logoColor=A8B9CC"/>
-  <img height="24" src="https://img.shields.io/badge/HTML5-F9EEF3?style=flat&amp;logo=html5&amp;logoColor=E34F26"/>
-  <img height="24" src="https://img.shields.io/badge/CSS-F5E5EC?style=flat&amp;logo=css&amp;logoColor=663399"/>
-  <img height="24" src="https://img.shields.io/badge/Delphi-F2DFE7?style=flat&amp;logo=delphi&amp;logoColor=EE1F35"/>
-  <img height="24" src="https://img.shields.io/badge/Laravel-F0DCE5?style=flat&amp;logo=laravel&amp;logoColor=FF2D20"/>
-  <img height="24" src="https://img.shields.io/badge/CakePHP-FBF5F7?style=flat&amp;logo=cakephp&amp;logoColor=D33C43"/>
+  <img height="28" src="https://img.shields.io/badge/Ansible-FBF5F7?style=flat-square&amp;logo=ansible&amp;logoColor=EE0000&amp;logoWidth=20" alt="Ansible"/>
+  <img height="28" src="https://img.shields.io/badge/CloudFormation-F9EEF3?style=flat-square&amp;logo=amazonwebservices&amp;logoColor=FF9900&amp;logoWidth=20" alt="AWS CloudFormation"/>
+  <img height="28" src="https://img.shields.io/badge/Terraform-F5E5EC?style=flat-square&amp;logo=terraform&amp;logoColor=844FBA&amp;logoWidth=20" alt="Terraform"/>
+  <img height="28" src="https://img.shields.io/badge/GitLab_CI%2FCD-F2DFE7?style=flat-square&amp;logo=gitlab&amp;logoColor=FC6D26&amp;logoWidth=20" alt="GitLab CI/CD"/>
+  <img height="28" src="https://img.shields.io/badge/Shell_Script-F0DCE5?style=flat-square&amp;logo=gnubash&amp;logoColor=4EAA25&amp;logoWidth=20" alt="Shell Script"/>
+  <img height="28" src="https://img.shields.io/badge/CrowdStrike-FBF5F7?style=flat-square&amp;logo=crowdstrike&amp;logoColor=FC0000&amp;logoWidth=20" alt="CrowdStrike"/>
 </p>
 
 <p align="center">
-  <img height="26" src="https://img.shields.io/badge/Apache-FBF5F7?style=flat&amp;logo=apache&amp;logoColor=D22128"/>
-  <img height="26" src="https://img.shields.io/badge/Nginx-F9EEF3?style=flat&amp;logo=nginx&amp;logoColor=009639"/>
-  <img height="26" src="https://img.shields.io/badge/Tomcat-F5E5EC?style=flat&amp;logo=apachetomcat&amp;logoColor=F8DC75"/>
-  <img height="26" src="https://img.shields.io/badge/Zabbix-F2DFE7?style=flat&amp;logo=zabbix&amp;logoColor=D40000"/>
-  <img height="26" src="https://img.shields.io/badge/Prometheus-F0DCE5?style=flat&amp;logo=prometheus&amp;logoColor=E6522C"/>
+  <img height="28" src="https://img.shields.io/badge/Python-FBF5F7?style=flat-square&amp;logo=python&amp;logoColor=3776AB&amp;logoWidth=20" alt="Python"/>
+  <img height="28" src="https://img.shields.io/badge/JavaScript-F9EEF3?style=flat-square&amp;logo=javascript&amp;logoColor=F7DF1E&amp;logoWidth=20" alt="JavaScript"/>
+  <img height="28" src="https://img.shields.io/badge/PHP-F5E5EC?style=flat-square&amp;logo=php&amp;logoColor=777BB4&amp;logoWidth=20" alt="PHP"/>
+  <img height="28" src="https://img.shields.io/badge/Java-F2DFE7?style=flat-square&amp;logo=openjdk&amp;logoColor=ED8B00&amp;logoWidth=20" alt="Java"/>
+  <img height="28" src="https://img.shields.io/badge/C%23-F0DCE5?style=flat-square&amp;logo=dotnet&amp;logoColor=512BD4&amp;logoWidth=20" alt="C#"/>
+  <img height="28" src="https://img.shields.io/badge/C-FBF5F7?style=flat-square&amp;logo=c&amp;logoColor=A8B9CC&amp;logoWidth=20" alt="C"/>
+  <img height="28" src="https://img.shields.io/badge/HTML5-F9EEF3?style=flat-square&amp;logo=html5&amp;logoColor=E34F26&amp;logoWidth=20" alt="HTML5"/>
+  <img height="28" src="https://img.shields.io/badge/CSS3-F5E5EC?style=flat-square&amp;logo=css3&amp;logoColor=1572B6&amp;logoWidth=20" alt="CSS3"/>
+  <img height="28" src="https://img.shields.io/badge/Delphi-F2DFE7?style=flat-square&amp;logo=delphi&amp;logoColor=EE1F35&amp;logoWidth=20" alt="Delphi"/>
+  <img height="28" src="https://img.shields.io/badge/Laravel-F0DCE5?style=flat-square&amp;logo=laravel&amp;logoColor=FF2D20&amp;logoWidth=20" alt="Laravel"/>
+  <img height="28" src="https://img.shields.io/badge/CakePHP-FBF5F7?style=flat-square&amp;logo=cakephp&amp;logoColor=D33C43&amp;logoWidth=20" alt="CakePHP"/>
 </p>
 
 <p align="center">
-  <img height="26" src="https://img.shields.io/badge/PostgreSQL-FBF5F7?style=flat&amp;logo=postgresql&amp;logoColor=4169E1"/>
-  <img height="26" src="https://img.shields.io/badge/MySQL-F9EEF3?style=flat&amp;logo=mysql&amp;logoColor=4479A1"/>
-  <img height="26" src="https://img.shields.io/badge/Oracle-F5E5EC?style=flat&amp;logo=oracle&amp;logoColor=F80000"/>
+  <img height="28" src="https://img.shields.io/badge/Apache-FBF5F7?style=flat-square&amp;logo=apache&amp;logoColor=D22128&amp;logoWidth=20" alt="Apache"/>
+  <img height="28" src="https://img.shields.io/badge/Nginx-F9EEF3?style=flat-square&amp;logo=nginx&amp;logoColor=009639&amp;logoWidth=20" alt="Nginx"/>
+  <img height="28" src="https://img.shields.io/badge/Tomcat-F5E5EC?style=flat-square&amp;logo=apachetomcat&amp;logoColor=F8DC75&amp;logoWidth=20" alt="Tomcat"/>
+  <img height="28" src="https://img.shields.io/badge/Zabbix-F2DFE7?style=flat-square&amp;logo=zabbix&amp;logoColor=D40000&amp;logoWidth=20" alt="Zabbix"/>
+  <img height="28" src="https://img.shields.io/badge/Prometheus-F0DCE5?style=flat-square&amp;logo=prometheus&amp;logoColor=E6522C&amp;logoWidth=20" alt="Prometheus"/>
+  <img height="28" src="https://img.shields.io/badge/PostgreSQL-FBF5F7?style=flat-square&amp;logo=postgresql&amp;logoColor=4169E1&amp;logoWidth=20" alt="PostgreSQL"/>
+  <img height="28" src="https://img.shields.io/badge/MySQL-F9EEF3?style=flat-square&amp;logo=mysql&amp;logoColor=4479A1&amp;logoWidth=20" alt="MySQL"/>
+  <img height="28" src="https://img.shields.io/badge/Oracle-F5E5EC?style=flat-square&amp;logo=oracle&amp;logoColor=F80000&amp;logoWidth=20" alt="Oracle"/>
 </p>
 
 <p align="center">
