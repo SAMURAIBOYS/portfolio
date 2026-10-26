@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="430" viewBox="0 0 1200 430">
+  <rect width="1200" height="430" fill="#ffffff"/>
+  <rect x="0" y="0" width="1200" height="8" fill="#7C3F5A"/>
+
+  <text x="70" y="84" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="18" fill="#8E5870" letter-spacing="3">ENGINEERING PORTFOLIO</text>
+  <text x="70" y="145" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="44" font-weight="700" fill="#232A34">Infrastructure · Automation</text>
+  <text x="70" y="196" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="44" font-weight="700" fill="#232A34">Operations · Leadership</text>
+  <text x="72" y="238" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="18" fill="#6B7280">Linux / Cloud / IaC / Troubleshooting / Project Leadership</text>
+
+  <rect x="70" y="286" rx="16" width="220" height="102" fill="#F8F1F4" stroke="#E6D9E0"/>
+  <text x="94" y="329" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#7C3F5A">10+</text>
+  <text x="94" y="360" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="14" fill="#606975">エンジニア経験</text>
+
+  <rect x="308" y="286" rx="16" width="220" height="102" fill="#F5EDF1" stroke="#E6D9E0"/>
+  <text x="332" y="329" font-family="Arial, sans-serif" font-size="36" font-weight="700" fill="#9A5C79">5+</text>
+  <text x="332" y="360" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="14" fill="#606975">インフラ経験</text>
+
+  <rect x="546" y="286" rx="16" width="360" height="102" fill="#F3E6EC" stroke="#D8C2CC"/>
+  <text x="570" y="325" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="25" font-weight="700" fill="#5A3244">数十万規模の顧客基盤</text>
+  <text x="570" y="351" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="14" fill="#6A5963">を持つ企業のクラウドサービス</text>
+  <text x="570" y="374" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="12" fill="#7A6C74">設計 / 構築 / 運用 / 障害調査 / 改善</text>
+
+  <rect x="924" y="286" rx="16" width="206" height="102" fill="#F8F1F4" stroke="#E6D9E0"/>
+  <text x="948" y="325" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="23" font-weight="700" fill="#7C3F5A">PL・フリーランス</text>
+  <text x="948" y="351" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="13" fill="#606975">案件推進・調整</text>
+  <text x="948" y="373" font-family="Arial, 'Noto Sans JP', sans-serif" font-size="11" fill="#8B919A">会社設立・運営経験あり</text>
+</svg>
