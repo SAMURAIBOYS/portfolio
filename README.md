@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/skills-20261026-v4.svg" width="100%" alt="Technology Map"/>
+  <img src="./assets/skills-20261026-v5.svg" width="100%" alt="Technology Map"/>
 </p>
 
 <p align="center">
@@ -17,8 +17,8 @@
 
 <p align="center">
   <img height="28" src="https://img.shields.io/badge/Linux-FBF5F7?style=flat-square&amp;logo=linux&amp;logoColor=FCC624&amp;logoWidth=20" alt="Linux"/>
-  <img height="28" src="https://img.shields.io/badge/Windows-F9EEF3?style=flat-square&amp;logo=windows11&amp;logoColor=0078D4&amp;logoWidth=20" alt="Windows"/>
-  <img height="28" src="https://img.shields.io/badge/AWS-F5E5EC?style=flat-square&amp;logo=amazonwebservices&amp;logoColor=FF9900&amp;logoWidth=20" alt="AWS"/>
+  <img height="28" src="./assets/badge-windows.svg" alt="Windows"/>
+  <img height="28" src="./assets/badge-aws.svg" alt="AWS"/>
   <img height="28" src="https://img.shields.io/badge/VMware-F2DFE7?style=flat-square&amp;logo=vmware&amp;logoColor=607078&amp;logoWidth=20" alt="VMware"/>
   <img height="28" src="https://img.shields.io/badge/Hyper--V-F0DCE5?style=flat-square&amp;logo=windows11&amp;logoColor=0078D4&amp;logoWidth=20" alt="Hyper-V"/>
   <img height="28" src="https://img.shields.io/badge/Citrix-FBF5F7?style=flat-square&amp;logo=citrix&amp;logoColor=452170&amp;logoWidth=20" alt="Citrix"/>
@@ -26,11 +26,11 @@
 
 <p align="center">
   <img height="28" src="https://img.shields.io/badge/Ansible-FBF5F7?style=flat-square&amp;logo=ansible&amp;logoColor=EE0000&amp;logoWidth=20" alt="Ansible"/>
-  <img height="28" src="https://img.shields.io/badge/CloudFormation-F9EEF3?style=flat-square&amp;logo=amazonwebservices&amp;logoColor=FF9900&amp;logoWidth=20" alt="AWS CloudFormation"/>
+  <img height="28" src="./assets/badge-cloudformation.svg" alt="AWS CloudFormation"/>
   <img height="28" src="https://img.shields.io/badge/Terraform-F5E5EC?style=flat-square&amp;logo=terraform&amp;logoColor=844FBA&amp;logoWidth=20" alt="Terraform"/>
   <img height="28" src="https://img.shields.io/badge/GitLab_CI%2FCD-F2DFE7?style=flat-square&amp;logo=gitlab&amp;logoColor=FC6D26&amp;logoWidth=20" alt="GitLab CI/CD"/>
   <img height="28" src="https://img.shields.io/badge/Shell_Script-F0DCE5?style=flat-square&amp;logo=gnubash&amp;logoColor=4EAA25&amp;logoWidth=20" alt="Shell Script"/>
-  <img height="28" src="https://img.shields.io/badge/CrowdStrike-FBF5F7?style=flat-square&amp;logo=crowdstrike&amp;logoColor=FC0000&amp;logoWidth=20" alt="CrowdStrike"/>
+  <img height="28" src="./assets/badge-crowdstrike.svg" alt="CrowdStrike"/>
 </p>
 
 <p align="center">
@@ -55,7 +55,7 @@
   <img height="28" src="https://img.shields.io/badge/Prometheus-F0DCE5?style=flat-square&amp;logo=prometheus&amp;logoColor=E6522C&amp;logoWidth=20" alt="Prometheus"/>
   <img height="28" src="https://img.shields.io/badge/PostgreSQL-FBF5F7?style=flat-square&amp;logo=postgresql&amp;logoColor=4169E1&amp;logoWidth=20" alt="PostgreSQL"/>
   <img height="28" src="https://img.shields.io/badge/MySQL-F9EEF3?style=flat-square&amp;logo=mysql&amp;logoColor=4479A1&amp;logoWidth=20" alt="MySQL"/>
-  <img height="28" src="https://img.shields.io/badge/Oracle-F5E5EC?style=flat-square&amp;logo=oracle&amp;logoColor=F80000&amp;logoWidth=20" alt="Oracle"/>
+  <img height="28" src="./assets/badge-oracle.svg" alt="Oracle"/>
 </p>
 
 <p align="center">
