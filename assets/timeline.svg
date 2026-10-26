@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470">
+<rect width="1200" height="470" fill="#ffffff"/>
+<text x="70" y="70" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#8b3d5c" letter-spacing="2">CAREER TIMELINE</text>
+<text x="70" y="110" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700" fill="#242a33">2016 → 2026</text>
+<line x1="105" y1="250" x2="1095" y2="250" stroke="#eadbe1" stroke-width="8" stroke-linecap="round"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<g><circle cx="120" cy="250" r="15" fill="#cf9aad"/><text x="90" y="220" font-size="14" font-weight="700" fill="#8b3d5c">2016</text><text x="72" y="286" font-size="12" fill="#5f6671">START</text></g>
+<g><circle cx="270" cy="250" r="15" fill="#cf9aad"/><text x="240" y="220" font-size="14" font-weight="700" fill="#8b3d5c">2018</text><text x="205" y="286" font-size="12" fill="#5f6671">OPS / DC</text></g>
+<g><circle cx="420" cy="250" r="15" fill="#b76e87"/><text x="390" y="220" font-size="14" font-weight="700" fill="#8b3d5c">2019</text><text x="352" y="286" font-size="12" fill="#5f6671">AWS / ANSIBLE</text></g>
+<g><circle cx="585" cy="250" r="18" fill="#8b3d5c"/><text x="555" y="220" font-size="14" font-weight="700" fill="#8b3d5c">2020</text><text x="520" y="286" font-size="12" fill="#5f6671">COMPANY / DEV</text></g>
+<g><circle cx="760" cy="250" r="18" fill="#8b3d5c"/><text x="730" y="220" font-size="14" font-weight="700" fill="#8b3d5c">2024</text><text x="700" y="286" font-size="12" fill="#5f6671">PM / CLOUD</text></g>
+<g><circle cx="910" cy="250" r="18" fill="#8b3d5c"/><text x="880" y="220" font-size="14" font-weight="700" fill="#8b3d5c">2025</text><text x="830" y="286" font-size="12" fill="#5f6671">BACKEND / AUTO</text></g>
+<g><circle cx="1080" cy="250" r="22" fill="#8b3d5c"/><circle cx="1080" cy="250" r="8" fill="#fff"/><text x="1048" y="210" font-size="16" font-weight="700" fill="#8b3d5c">2026</text><text x="1020" y="292" font-size="12" fill="#5f6671">CLOUD INFRA</text></g>
+
+<rect x="150" y="340" width="900" height="70" rx="14" fill="#fbf5f7"/>
+<text x="180" y="382" font-size="16" fill="#303640">Infrastructure</text><text x="340" y="382" font-size="16" fill="#b76e87">→</text>
+<text x="380" y="382" font-size="16" fill="#303640">Automation</text><text x="510" y="382" font-size="16" fill="#b76e87">→</text>
+<text x="550" y="382" font-size="16" fill="#303640">Backend</text><text x="655" y="382" font-size="16" fill="#b76e87">→</text>
+<text x="695" y="382" font-size="16" fill="#303640">Leadership</text><text x="815" y="382" font-size="16" fill="#b76e87">→</text>
+<text x="855" y="382" font-size="16" font-weight="700" fill="#8b3d5c">Service Reliability</text>
+</g>
+</svg>
