@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="660" viewBox="0 0 1200 660">
+<rect width="1200" height="660" fill="#ffffff"/>
+
+<text x="70" y="62" font-family="Arial,'Noto Sans JP',sans-serif" font-size="17" fill="#A45F7A" letter-spacing="2">テクノロジーマップ</text>
+<text x="70" y="100" font-family="Arial,'Noto Sans JP',sans-serif" font-size="28" font-weight="700" fill="#232A34">技術スタック・実務領域</text>
+<line x1="70" y1="120" x2="1130" y2="120" stroke="#E8DCE3" stroke-width="2"/>
+
+<!-- infrastructure -->
+<rect x="70" y="150" width="330" height="205" rx="22" fill="#FBF5F7" stroke="#E7D7DE"/>
+<text x="96" y="186" font-family="Arial,'Noto Sans JP',sans-serif" font-size="15" font-weight="700" fill="#7C3F5A">インフラ / クラウド</text>
+<text x="96" y="224" font-family="Arial,sans-serif" font-size="14" fill="#303640">Linux</text><rect x="190" y="212" width="165" height="14" rx="7" fill="#EEDDE5"/><rect x="190" y="212" width="158" height="14" rx="7" fill="#7C3F5A"/>
+<text x="96" y="260" font-family="Arial,sans-serif" font-size="14" fill="#303640">AWS</text><rect x="190" y="248" width="165" height="14" rx="7" fill="#EEDDE5"/><rect x="190" y="248" width="145" height="14" rx="7" fill="#94516E"/>
+<text x="96" y="296" font-family="Arial,sans-serif" font-size="14" fill="#303640">VMware</text><rect x="190" y="284" width="165" height="14" rx="7" fill="#EEDDE5"/><rect x="190" y="284" width="122" height="14" rx="7" fill="#B76788"/>
+<text x="96" y="332" font-family="Arial,sans-serif" font-size="14" fill="#303640">Hyper-V / Citrix</text>
+
+<!-- automation -->
+<rect x="435" y="150" width="330" height="205" rx="22" fill="#F8EDF2" stroke="#E4CED8"/>
+<text x="461" y="186" font-family="Arial,'Noto Sans JP',sans-serif" font-size="15" font-weight="700" fill="#94516E">自動化 / IaC</text>
+<text x="461" y="224" font-family="Arial,sans-serif" font-size="14" fill="#303640">Ansible</text><rect x="580" y="212" width="145" height="14" rx="7" fill="#E9D5DE"/><rect x="580" y="212" width="140" height="14" rx="7" fill="#7C3F5A"/>
+<text x="461" y="260" font-family="Arial,sans-serif" font-size="14" fill="#303640">CloudFormation</text><rect x="580" y="248" width="145" height="14" rx="7" fill="#E9D5DE"/><rect x="580" y="248" width="120" height="14" rx="7" fill="#A95B78"/>
+<text x="461" y="296" font-family="Arial,sans-serif" font-size="14" fill="#303640">GitLab CI/CD</text><rect x="580" y="284" width="145" height="14" rx="7" fill="#E9D5DE"/><rect x="580" y="284" width="108" height="14" rx="7" fill="#C1849E"/>
+<text x="461" y="332" font-family="Arial,sans-serif" font-size="14" fill="#303640">Terraform</text><rect x="580" y="320" width="145" height="14" rx="7" fill="#E9D5DE"/><rect x="580" y="320" width="72" height="14" rx="7" fill="#D7B3C3"/>
+
+<!-- operations -->
+<rect x="800" y="150" width="330" height="205" rx="22" fill="#F4E4EB" stroke="#DDBFCC"/>
+<text x="826" y="186" font-family="Arial,'Noto Sans JP',sans-serif" font-size="15" font-weight="700" fill="#A95B78">運用 / 障害対応</text>
+<text x="826" y="226" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#303640">障害切り分け</text><text x="1018" y="226" fill="#7C3F5A" font-size="13">●●●●●</text>
+<text x="826" y="260" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#303640">運用改善・標準化</text><text x="1018" y="260" fill="#94516E" font-size="13">●●●●●</text>
+<text x="826" y="294" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#303640">監視 / ログ確認</text><text x="1018" y="294" fill="#B76788" font-size="13">●●●●○</text>
+<text x="826" y="328" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#303640">ドキュメント整備</text><text x="1018" y="328" fill="#C98FA8" font-size="13">●●●●○</text>
+
+<!-- code -->
+<rect x="70" y="390" width="330" height="205" rx="22" fill="#F8EDF2" stroke="#E4CED8"/>
+<text x="96" y="426" font-family="Arial,'Noto Sans JP',sans-serif" font-size="15" font-weight="700" fill="#7C3F5A">実装 / スクリプト</text>
+<circle cx="180" cy="505" r="58" fill="#7C3F5A"/>
+<text x="180" y="500" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#fff">Shell</text>
+<text x="180" y="521" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#fff">Script</text>
+<circle cx="292" cy="472" r="40" fill="#A95B78"/><text x="292" y="477" text-anchor="middle" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#fff">Python</text>
+<circle cx="292" cy="548" r="24" fill="#C1849E"/><text x="292" y="552" text-anchor="middle" font-family="Arial,sans-serif" font-size="9" fill="#fff">JS</text>
+<circle cx="342" cy="512" r="20" fill="#D1A3B6"/><text x="342" y="516" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" fill="#6B3E52">PHP</text>
+<circle cx="342" cy="563" r="16" fill="#E5C9D5"/><text x="342" y="567" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" fill="#6B3E52">Java</text>
+
+<!-- middleware -->
+<rect x="435" y="390" width="330" height="205" rx="22" fill="#F4E4EB" stroke="#DDBFCC"/>
+<text x="461" y="426" font-family="Arial,'Noto Sans JP',sans-serif" font-size="15" font-weight="700" fill="#94516E">ミドルウェア / 監視</text>
+<text x="461" y="468" font-family="Arial,sans-serif" font-size="13" fill="#303640">Apache · Nginx · Tomcat</text>
+<text x="461" y="502" font-family="Arial,sans-serif" font-size="13" fill="#303640">Zabbix · Prometheus</text>
+<text x="461" y="536" font-family="Arial,sans-serif" font-size="13" fill="#303640">PostgreSQL · MySQL · Oracle</text>
+
+<!-- leadership -->
+<rect x="800" y="390" width="330" height="205" rx="22" fill="#EFD7E2" stroke="#D5AFC0"/>
+<text x="826" y="426" font-family="Arial,'Noto Sans JP',sans-serif" font-size="15" font-weight="700" fill="#7C3F5A">プロジェクト推進</text>
+<text x="826" y="468" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#303640">プロジェクトリーダー</text>
+<text x="826" y="502" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#303640">顧客調整 / 進捗・課題管理</text>
+<text x="826" y="536" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#303640">コスト管理 / オフショア管理</text>
+
+<text x="70" y="632" font-family="Arial,'Noto Sans JP',sans-serif" font-size="11" fill="#8B919A">各技術のロゴはREADME下部に公式ロゴ付きで表示</text>
+</svg>
