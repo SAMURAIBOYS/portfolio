@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="180" viewBox="0 0 1200 180">
+<rect width="1200" height="180" rx="22" fill="#7C3F5A"/>
+<circle cx="1030" cy="42" r="34" fill="#647C90" opacity=".30"/>
+<circle cx="1095" cy="108" r="48" fill="#7E9283" opacity=".22"/>
+<text x="70" y="63" font-family="Arial,'Noto Sans JP',sans-serif" font-size="15" fill="#F3DDE6" letter-spacing="2">CAREER DOCUMENT</text>
+<text x="70" y="108" font-family="Arial,'Noto Sans JP',sans-serif" font-size="28" font-weight="700" fill="#FFFFFF">案件詳細・担当工程・技術スタック・実績</text>
+<text x="70" y="142" font-family="Arial,'Noto Sans JP',sans-serif" font-size="18" fill="#F9EDF2">→ 応募時に提出している職務経歴書をご参照ください</text>
+</svg>
