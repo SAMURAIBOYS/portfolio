@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/impact-20261026-v8.svg" width="100%" alt="Selected Impact"/>
+  <img src="./assets/impact-20261026-v9.svg" width="100%" alt="Selected Impact"/>
 </p>
 
 <p align="center">
