@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+<rect width="1200" height="630" fill="#fff"/>
+<text x="70" y="62" font-family="Arial,'Noto Sans JP',sans-serif" font-size="17" fill="#A45F7A" letter-spacing="2">主な実績</text>
+<text x="70" y="100" font-family="Arial,'Noto Sans JP',sans-serif" font-size="28" font-weight="700" fill="#232A34">これまでの実務で培った強み</text>
+<line x1="70" y1="120" x2="1130" y2="120" stroke="#E8DCE3" stroke-width="2"/>
+
+<rect x="70" y="150" width="515" height="190" rx="22" fill="#FBF5F7" stroke="#E7D7DE"/>
+<text x="98" y="185" font-family="Arial,'Noto Sans JP',sans-serif" font-size="14" font-weight="700" fill="#94516E">1. クラウド / サービスインフラ</text>
+<text x="98" y="229" font-family="Arial,'Noto Sans JP',sans-serif" font-size="23" font-weight="700" fill="#5C3547">パブリッククラウド・自社サービス基盤対応</text>
+<text x="98" y="262" font-family="Arial,'Noto Sans JP',sans-serif" font-size="16" font-weight="700" fill="#7C3F5A">導入企業6万社超の自社クラウドサービス</text>
+<text x="98" y="291" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#5F6671">設計 / 構築 / 運用 / 障害調査 / 改善</text>
+<rect x="98" y="302" width="150" height="28" rx="14" fill="#fff" stroke="#E0D1D8"/>
+<text x="173" y="321" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#7C3F5A">Linux / AWS</text>
+<rect x="262" y="302" width="170" height="28" rx="14" fill="#fff" stroke="#E0D1D8"/>
+<text x="347" y="321" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" fill="#A95B78">CloudFormation</text>
+
+<rect x="615" y="150" width="515" height="190" rx="22" fill="#F9EEF3" stroke="#E4CED8"/>
+<text x="643" y="185" font-family="Arial,'Noto Sans JP',sans-serif" font-size="14" font-weight="700" fill="#94516E">2. リーダーシップ</text>
+<text x="643" y="232" font-family="Arial,'Noto Sans JP',sans-serif" font-size="28" font-weight="700" fill="#5C3547">プロジェクトリーダー</text>
+<text x="643" y="266" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#5F6671">複数案件の推進 / 顧客・開発・運用との調整</text>
+<text x="643" y="293" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#6B7280">進捗・課題・コスト管理</text>
+<text x="643" y="319" font-family="Arial,'Noto Sans JP',sans-serif" font-size="10" fill="#8B919A">最大50名規模の案件経験</text>
+
+<rect x="70" y="375" width="515" height="190" rx="22" fill="#F5E5EC" stroke="#DDBFCC"/>
+<text x="98" y="410" font-family="Arial,'Noto Sans JP',sans-serif" font-size="14" font-weight="700" fill="#94516E">3. 会社経営</text>
+<text x="98" y="452" font-family="Arial,'Noto Sans JP',sans-serif" font-size="25" font-weight="700" fill="#5C3547">法人設立から事業運営まで</text>
+<text x="98" y="488" font-family="Arial,'Noto Sans JP',sans-serif" font-size="14" fill="#5F6671">複数案件の受託・納品</text>
+<text x="98" y="516" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" fill="#6B7280">コスト改善 / 目標達成 / 顧客対応</text>
+<rect x="98" y="535" width="170" height="26" rx="13" fill="#fff" stroke="#DFC8D2"/>
+<text x="183" y="553" text-anchor="middle" font-family="Arial,'Noto Sans JP',sans-serif" font-size="10" fill="#7C3F5A">設立・経営・受託開発</text>
+
+<rect x="615" y="375" width="515" height="190" rx="22" fill="#F0DCE5" stroke="#D5AFC0"/>
+<text x="643" y="410" font-family="Arial,'Noto Sans JP',sans-serif" font-size="14" font-weight="700" fill="#94516E">4. 自動化・実装</text>
+<text x="643" y="442" font-family="Arial,'Noto Sans JP',sans-serif" font-size="15" font-weight="700" fill="#5C3547">運用自動化・定型作業の効率化を実務で推進</text>
+<text x="643" y="466" font-family="Arial,'Noto Sans JP',sans-serif" font-size="12" fill="#6B7280">Shell / Pythonを中心に、複数環境の運用改善を実装</text>
+
+<circle cx="712" cy="522" r="34" fill="#7C3F5A"/>
+<text x="712" y="518" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="#fff">Shell</text>
+<text x="712" y="533" text-anchor="middle" font-family="Arial,sans-serif" font-size="11" font-weight="700" fill="#fff">Script</text>
+
+<circle cx="785" cy="512" r="29" fill="#A95B78"/>
+<text x="785" y="516" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="#fff">Python</text>
+
+<circle cx="853" cy="527" r="27" fill="#BE7E99"/>
+<text x="853" y="523" text-anchor="middle" font-family="Arial,sans-serif" font-size="7" font-weight="700" fill="#fff">HTML / CSS</text>
+<text x="853" y="536" text-anchor="middle" font-family="Arial,sans-serif" font-size="8" font-weight="700" fill="#fff">JavaScript</text>
+
+<circle cx="916" cy="508" r="24" fill="#CC97AE"/>
+<text x="916" y="512" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="#6B3E52">PHP</text>
+
+<circle cx="972" cy="531" r="24" fill="#DBB4C4"/>
+<text x="972" y="535" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="#6B3E52">Java</text>
+
+<circle cx="1028" cy="506" r="24" fill="#E7CBD6"/>
+<text x="1028" y="510" text-anchor="middle" font-family="Arial,sans-serif" font-size="10" font-weight="700" fill="#6B3E52">C#</text>
+</svg>
