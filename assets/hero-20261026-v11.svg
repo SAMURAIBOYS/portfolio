@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500">
+<rect width="1200" height="500" fill="#fff"/>
+<rect width="1200" height="8" fill="#7C3F5A"/>
+
+<text x="70" y="72" font-family="Arial,'Noto Sans JP',sans-serif" font-size="16" fill="#A45F7A" letter-spacing="3">ENGINEERING PORTFOLIO</text>
+<text x="70" y="132" font-family="Arial,'Noto Sans JP',sans-serif" font-size="38" font-weight="700" fill="#232A34">「できない」で終わらせない。</text>
+<text x="70" y="178" font-family="Arial,'Noto Sans JP',sans-serif" font-size="30" font-weight="700" fill="#7C3F5A">未知の領域に挑み、成長し続けるインフラエンジニア。</text>
+<text x="70" y="214" font-family="Arial,'Noto Sans JP',sans-serif" font-size="15" fill="#6B7280">Linux / Cloud / Automation / Operations Improvement / Project Leadership</text>
+
+<rect x="70" y="255" width="1060" height="195" rx="24" fill="#FBF5F7" stroke="#DFC8D2" stroke-width="2"/>
+<text x="96" y="292" font-family="Arial,'Noto Sans JP',sans-serif" font-size="12" font-weight="700" fill="#A45F7A">CAREER EXPERIENCE</text>
+<text x="96" y="350" font-family="Arial,sans-serif" font-size="54" font-weight="700" fill="#7C3F5A">10+</text>
+<text x="96" y="386" font-family="Arial,'Noto Sans JP',sans-serif" font-size="16" font-weight="700" fill="#303640">エンジニア経験</text>
+<text x="96" y="414" font-family="Arial,'Noto Sans JP',sans-serif" font-size="11" fill="#7A6C74">設計・構築・開発・運用改善</text>
+
+<!-- Infrastructure experience + project leadership -->
+<rect x="310" y="285" width="555" height="135" rx="18" fill="#F2DCE6" stroke="#D2AABC"/>
+<text x="338" y="326" font-family="Arial,sans-serif" font-size="38" font-weight="700" fill="#7C3F5A">5+</text>
+<text x="338" y="361" font-family="Arial,'Noto Sans JP',sans-serif" font-size="15" font-weight="700" fill="#303640">インフラ経験</text>
+<text x="338" y="389" font-family="Arial,'Noto Sans JP',sans-serif" font-size="11" fill="#6B7280">Linux / Cloud / IaC / Operations</text>
+
+<rect x="555" y="302" width="280" height="101" rx="15" fill="#FBF3F6" stroke="#DAB9C7"/>
+<text x="580" y="340" font-family="Arial,sans-serif" font-size="31" font-weight="700" fill="#94516E">3+</text>
+<text x="580" y="371" font-family="Arial,'Noto Sans JP',sans-serif" font-size="13" font-weight="700" fill="#303640">プロジェクトリーダー経験</text>
+<text x="580" y="391" font-family="Arial,'Noto Sans JP',sans-serif" font-size="10" fill="#6B7280">案件推進・調整・進捗 / 課題管理</text>
+
+<!-- Other career experience -->
+<rect x="885" y="285" width="220" height="62" rx="15" fill="#F8EDF2" stroke="#E4CED8"/>
+<text x="905" y="316" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#A95B78">3+</text>
+<text x="958" y="316" font-family="Arial,'Noto Sans JP',sans-serif" font-size="12" font-weight="700" fill="#303640">フリーランス経験</text>
+
+<rect x="885" y="358" width="220" height="62" rx="15" fill="#FAF2F6" stroke="#E6D4DC"/>
+<text x="905" y="389" font-family="Arial,sans-serif" font-size="24" font-weight="700" fill="#B76788">4+</text>
+<text x="958" y="389" font-family="Arial,'Noto Sans JP',sans-serif" font-size="12" font-weight="700" fill="#303640">会社経営経験</text>
+</svg>
