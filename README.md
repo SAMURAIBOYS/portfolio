@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/skills-20261026-v8.svg" width="100%" alt="Technology Map"/>
+  <img src="./assets/skills-20261026-v9.svg" width="100%" alt="Technology Map"/>
 </p>
 
 <p align="center">
@@ -30,6 +30,7 @@
   <img height="26" src="https://img.shields.io/badge/Terraform-F5E5EC?style=flat-square&amp;logo=terraform&amp;logoColor=844FBA" alt="Terraform"/>
   <img height="26" src="https://img.shields.io/badge/Shell_Script-F0DCE5?style=flat-square&amp;logo=gnubash&amp;logoColor=4EAA25" alt="Shell Script"/>
   <img height="26" src="./assets/badge-crowdstrike-v2.svg" alt="CrowdStrike"/>
+  <img height="26" src="https://img.shields.io/badge/Zabbix-F2DFE7?style=flat-square&amp;logo=zabbix&amp;logoColor=D40000" alt="Zabbix"/>
 </p>
 
 <p align="center">
@@ -50,7 +51,6 @@
   <img height="26" src="https://img.shields.io/badge/Apache-FBF5F7?style=flat-square&amp;logo=apache&amp;logoColor=D22128" alt="Apache"/>
   <img height="26" src="https://img.shields.io/badge/Nginx-F9EEF3?style=flat-square&amp;logo=nginx&amp;logoColor=009639" alt="Nginx"/>
   <img height="26" src="https://img.shields.io/badge/Tomcat-F5E5EC?style=flat-square&amp;logo=apachetomcat&amp;logoColor=F8DC75" alt="Tomcat"/>
-  <img height="26" src="https://img.shields.io/badge/Zabbix-F2DFE7?style=flat-square&amp;logo=zabbix&amp;logoColor=D40000" alt="Zabbix"/>
   <img height="26" src="https://img.shields.io/badge/Prometheus-F0DCE5?style=flat-square&amp;logo=prometheus&amp;logoColor=E6522C" alt="Prometheus"/>
   <img height="26" src="https://img.shields.io/badge/PostgreSQL-FBF5F7?style=flat-square&amp;logo=postgresql&amp;logoColor=4169E1" alt="PostgreSQL"/>
   <img height="26" src="https://img.shields.io/badge/MySQL-F9EEF3?style=flat-square&amp;logo=mysql&amp;logoColor=4479A1" alt="MySQL"/>
@@ -62,5 +62,5 @@
 </p>
 
 <p align="center">
-  <img src="./assets/career-document-20261026-v3.svg" width="100%" alt="職務経歴書（PDF）をご確認ください"/>
+  <img src="./assets/career-document-20261026-v4.svg" width="100%" alt="詳細については、職務経歴書（PDF）をご確認ください"/>
 </p>
