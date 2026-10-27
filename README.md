@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <img src="./assets/impact-20261026-v6.svg" width="100%" alt="Selected Impact"/>
+  <img src="./assets/impact-20261026-v7.svg" width="100%" alt="Selected Impact"/>
 </p>
 
 <p align="center">
-  <img src="./assets/skills-20261026-v7.svg" width="100%" alt="Technology Map"/>
+  <img src="./assets/skills-20261026-v8.svg" width="100%" alt="Technology Map"/>
 </p>
 
 <p align="center">
@@ -28,7 +28,6 @@
   <img height="26" src="https://img.shields.io/badge/Ansible-FBF5F7?style=flat-square&amp;logo=ansible&amp;logoColor=EE0000" alt="Ansible"/>
   <img height="26" src="./assets/badge-cloudformation-v2.svg" alt="AWS CloudFormation"/>
   <img height="26" src="https://img.shields.io/badge/Terraform-F5E5EC?style=flat-square&amp;logo=terraform&amp;logoColor=844FBA" alt="Terraform"/>
-  <img height="26" src="https://img.shields.io/badge/GitLab_CI%2FCD-F2DFE7?style=flat-square&amp;logo=gitlab&amp;logoColor=FC6D26" alt="GitLab CI/CD"/>
   <img height="26" src="https://img.shields.io/badge/Shell_Script-F0DCE5?style=flat-square&amp;logo=gnubash&amp;logoColor=4EAA25" alt="Shell Script"/>
   <img height="26" src="./assets/badge-crowdstrike-v2.svg" alt="CrowdStrike"/>
 </p>
