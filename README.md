@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero-20261026-v10.svg" width="100%" alt="Engineering Portfolio"/>
+  <img src="./assets/hero-20261026-v11.svg" width="100%" alt="Engineering Portfolio"/>
 </p>
 
 <p align="center">
@@ -58,7 +58,7 @@
 </p>
 
 <p align="center">
-  <img src="./assets/timeline-20261026-v7.svg" width="100%" alt="Career Timeline"/>
+  <img src="./assets/timeline-20261026-v8.svg" width="100%" alt="Career Timeline"/>
 </p>
 
 <p align="center">
